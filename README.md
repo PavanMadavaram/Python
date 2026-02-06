@@ -8,3 +8,9 @@
 - Input/output, arithmetic operators
 - Helper functions created
 - 4 files committed
+
+
+## Day 3 ✅ Even/Odd
+- if-elif-else statements
+- Modulo operator %
+- 4 files committed
