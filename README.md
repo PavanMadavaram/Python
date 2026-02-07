@@ -14,3 +14,9 @@
 - if-elif-else statements
 - Modulo operator %
 - 4 files committed
+
+
+## Day 4 ✅ Multiplication Table
+- for loops, range()
+- Nested calculations
+- 4 files committed
