@@ -20,3 +20,10 @@
 - for loops, range()
 - Nested calculations
 - 4 files committed
+
+
+- ## Day 5 ✅ While Loop
+- while loops
+- Counter variables
+- 4 files committed
+
