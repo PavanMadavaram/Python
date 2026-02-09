@@ -27,3 +27,8 @@
 - Counter variables
 - 4 files committed
 
+
+## Day 6 ✅ Lists
+- List creation, indexing, append()
+- Helper functions for lists
+- 4 files committed ✅
