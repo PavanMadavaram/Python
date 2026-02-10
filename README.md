@@ -32,3 +32,10 @@
 - List creation, indexing, append()
 - Helper functions for lists
 - 4 files committed ✅
+
+
+  ## Day 7 ✅ Tuples
+- Tuple creation, indexing, len()
+- Helper functions for tuples  
+- 4 files committed ✅
+
