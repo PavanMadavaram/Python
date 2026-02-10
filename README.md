@@ -22,7 +22,7 @@
 - 4 files committed
 
 
-- ## Day 5 ✅ While Loop
+## Day 5 ✅ While Loop
 - while loops
 - Counter variables
 - 4 files committed
@@ -34,7 +34,7 @@
 - 4 files committed ✅
 
 
-  ## Day 7 ✅ Tuples
+## Day 7 ✅ Tuples
 - Tuple creation, indexing, len()
 - Helper functions for tuples  
 - 4 files committed ✅
