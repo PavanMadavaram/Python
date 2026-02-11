@@ -39,3 +39,8 @@
 - Helper functions for tuples  
 - 4 files committed ✅
 
+
+## Day 8 ✅ Dictionaries
+- Key-value pairs, .keys()
+- Helper functions for profiles
+- 4 files committed ✅
