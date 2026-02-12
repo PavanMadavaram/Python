@@ -44,3 +44,9 @@
 - Key-value pairs, .keys()
 - Helper functions for profiles
 - 4 files committed ✅
+
+
+## Day 9 ✅ List Loops
+- for loops with lists, append()
+- Filter even numbers
+- 4 files committed ✅
