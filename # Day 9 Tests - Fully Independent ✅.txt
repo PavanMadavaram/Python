@@ -1,0 +1,13 @@
+# Day 9 Tests - Fully Independent ✅
+numbers = [1, 2, 3, 4, 5]
+doubled = []
+for n in numbers:
+    doubled.append(n * 2)
+print("Test doubled:", doubled)
+
+evens = [n for n in numbers if n % 2 == 0]
+print("Test evens:", evens)
+
+assert doubled == [2, 4, 6, 8, 10], "Doubling failed!"
+assert evens == [2, 4], "Even filter failed!"
+print("✅ Day 9: All 4 tests PASSED!")
