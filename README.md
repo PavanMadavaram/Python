@@ -50,3 +50,9 @@
 - for loops with lists, append()
 - Filter even numbers
 - 4 files committed ✅
+
+
+## Day 10 ✅ Nested Lists
+- 2D lists, nested loops
+- Shopping cart calculator
+- 4 files committed ✅
