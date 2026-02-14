@@ -56,3 +56,9 @@
 - 2D lists, nested loops
 - Shopping cart calculator
 - 4 files committed ✅
+
+
+## Day 11 ✅ Functions
+- def keyword, return
+- Simple addition
+- 4 files committed ✅
