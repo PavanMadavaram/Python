@@ -1,0 +1,8 @@
+# Day 11 - Python Functions
+def say_hello(name):
+    greeting = "Namaste " + name + "!"
+    print(greeting)
+    return greeting
+
+say_hello("Pavan")
+print("First function works!")
