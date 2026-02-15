@@ -62,3 +62,9 @@
 - def keyword, return
 - Simple addition
 - 4 files committed ✅
+
+
+## Day 12 ✅ Math Functions
+- Add, multiply functions
+- Square helper
+- 4 files committed ✅
