@@ -68,3 +68,9 @@
 - Add, multiply functions
 - Square helper
 - 4 files committed ✅
+
+
+## Day 13 ✅ Strings
+- Reverse with [::-1]
+- len() function
+- 4 files committed ✅
