@@ -74,3 +74,9 @@
 - Reverse with [::-1]
 - len() function
 - 4 files committed ✅
+
+
+## Day 14 ✅ Vowel Counter
+- Count vowels in word
+- in operator
+- 4 files done ✅
