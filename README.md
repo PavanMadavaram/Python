@@ -80,3 +80,9 @@
 - Count vowels in word
 - in operator
 - 4 files done ✅
+
+
+## Day 15 ✅ f-Strings
+- f"text {var}"
+- Formatted output
+- 4 files done ✅
