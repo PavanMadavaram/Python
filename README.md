@@ -105,3 +105,8 @@
 - Filter even/big numbers
 - 4 files done ✅
 
+
+## Day 18 ✅ Rock Paper Scissors
+- random.choice() fixed
+- Simple if-elif logic
+- 4 files done ✅
