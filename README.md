@@ -110,3 +110,9 @@
 - random.choice() fixed
 - Simple if-elif logic
 - 4 files done ✅
+
+
+## Day 19 ✅ Number Guessing
+- random.randint(1,10)
+- if guess logic
+- 4 files done ✅
