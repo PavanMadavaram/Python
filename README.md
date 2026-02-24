@@ -123,7 +123,4 @@
 - Triangle pattern
 - 4 files done ✅
 
-## Day 20 ✅ Star Pattern
-- Nested "*" loops
-- Triangle pattern
-- 4 files done ✅
+
