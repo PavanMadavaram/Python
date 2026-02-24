@@ -124,3 +124,7 @@
 - 4 files done ✅
 
 
+## Day 21 ✅ File Write
+- with open("file", "w")
+- file.write() method
+- 4 files done ✅
