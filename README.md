@@ -128,3 +128,9 @@
 - with open("file", "w")
 - file.write() method
 - 4 files done ✅
+
+
+## Day 22 ✅ File Read
+- with open("file", "r")
+- file.read(), for line in file
+- 4 files done ✅
