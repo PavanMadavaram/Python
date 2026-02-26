@@ -134,3 +134,9 @@
 - with open("file", "r")
 - file.read(), for line in file
 - 4 files done ✅
+
+
+## Day 23 ✅ Try Except
+- try: except: error handling
+- ValueError, ZeroDivisionError
+- 4 files done ✅
