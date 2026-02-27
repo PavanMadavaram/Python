@@ -140,3 +140,9 @@
 - try: except: error handling
 - ValueError, ZeroDivisionError
 - 4 files done ✅
+
+
+## Day 24 ✅ BMI Calculator
+- BMI formula: weight/(height²)
+- if-elif categories
+- 4 files done ✅
