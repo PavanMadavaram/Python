@@ -146,3 +146,9 @@
 - BMI formula: weight/(height²)
 - if-elif categories
 - 4 files done ✅
+
+
+## Day 25 ✅ Todo List
+- List append(), enumerate()
+- Todo helper function
+- 4 files done ✅
