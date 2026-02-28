@@ -94,12 +94,6 @@
 - 4 files done ✅
 
 
-## Day 16 ✅ List Comprehension
-- [x*2 for x in list]
-- One line loops
-- 4 files done ✅
-
-
 ## Day 17 ✅ Filter Lists
 - [x for x in lst if condition]
 - Filter even/big numbers
