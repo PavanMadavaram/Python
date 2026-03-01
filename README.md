@@ -4,7 +4,7 @@
 - Learned variables, strings, f-strings
 - 4 files committed
 - Time: 25 mins
-
+- 4 files committed
 
 ## Day 2 ✅ Calculator
 - Input/output, arithmetic operators
