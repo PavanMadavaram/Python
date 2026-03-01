@@ -1,4 +1,4 @@
----Daily Basic Python Streak
+---Daily Basic Python Streak---
 
 ## Day 1 ✅ Variables & Print
 - Learned variables, strings, f-strings
