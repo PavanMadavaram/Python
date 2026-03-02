@@ -147,3 +147,10 @@
 - List append(), enumerate()
 - Todo helper function
 - 4 files done ✅
+
+
+## Day 26 ✅ Number Words
+- Dictionary lookup
+- .get() method
+- Helper function
+- 4 files done ✅
