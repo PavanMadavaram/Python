@@ -154,3 +154,10 @@
 - .get() method
 - Helper function
 - 4 files done ✅
+
+
+## Day 27 ✅ File Operations (NEW)
+- open() write mode
+- with statement
+- File helper
+- 4 files done ✅
