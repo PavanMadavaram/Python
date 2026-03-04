@@ -161,3 +161,12 @@
 - with statement
 - File helper
 - 4 files done ✅
+
+
+## Day 28 ✅ Sets (NEW TOPIC)
+- set() removes duplicates
+- Set helper function
+- len(set) works
+- 4 files done ✅
+
+
