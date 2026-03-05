@@ -170,3 +170,8 @@
 - 4 files done ✅
 
 
+## Day 29 ✅ Lambda Functions (NEW)
+- lambda x: expression
+- Anonymous functions
+- Lambda helper
+- 4 files done ✅
