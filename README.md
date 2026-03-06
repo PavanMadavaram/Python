@@ -175,3 +175,10 @@
 - Anonymous functions
 - Lambda helper
 - 4 files done ✅
+
+
+## Day 30 ✅ Enumerate (NEW)
+- enumerate() index+value
+- Loop with indices
+- Helper function
+- 4 files done ✅
