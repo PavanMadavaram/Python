@@ -182,3 +182,9 @@
 - Loop with indices
 - Helper function
 - 4 files done ✅
+
+
+## Day 31 ✅ List Slicing
+- lst[start:end:step]
+- [:3], [1:-1], [::2]
+- 4 files done ✅
