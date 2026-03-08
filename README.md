@@ -195,3 +195,10 @@
 - Step in slicing
 - 4 files done ✅
 
+
+## Day 33 ✅ Classes & Objects
+- class, __init__, self
+- Create instances
+- 4 files done ✅
+
+
