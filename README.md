@@ -188,3 +188,10 @@
 - lst[start:end:step]
 - [:3], [1:-1], [::2]
 - 4 files done ✅
+
+
+## Day 32 ✅ String Slicing
+- text[a:b], text[-x:]
+- Step in slicing
+- 4 files done ✅
+
