@@ -202,3 +202,7 @@
 - 4 files done ✅
 
 
+## Day 34 ✅ Class Methods
+- Methods with self
+- Change object state
+- 4 files done ✅
