@@ -206,3 +206,9 @@
 - Methods with self
 - Change object state
 - 4 files done ✅
+
+
+## Day 35 ✅ Inheritance
+- Base and child classes
+- Override methods
+- 4 files done ✅
