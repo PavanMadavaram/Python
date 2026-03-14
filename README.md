@@ -225,3 +225,10 @@
 - No external packages
 - 100% working everywhere
 - 4 files done ✅
+
+
+## Day 38 ✅ Class Properties (NEW)
+- Class variables (shared)
+- Access via ClassName.prop
+- Count objects
+- 4 files done ✅
