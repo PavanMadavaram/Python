@@ -232,3 +232,10 @@
 - Access via ClassName.prop
 - Count objects
 - 4 files done ✅
+
+
+## Day 39 ✅ @property Decorator (NEW)
+- Getter methods
+- Access like attributes
+- Encapsulation
+- 4 files done ✅
