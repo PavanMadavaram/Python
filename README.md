@@ -239,3 +239,10 @@
 - Access like attributes
 - Encapsulation
 - 4 files done ✅
+
+
+## Day 40 ✅ Advanced List Comprehensions (NEW)
+- [x for x in list if condition]
+- Multiple operations
+- Filter + transform
+- 4 files done ✅
