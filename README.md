@@ -246,3 +246,10 @@
 - Multiple operations
 - Filter + transform
 - 4 files done ✅
+
+
+## Day 41 ✅ Decorators (NEW)
+- @decorator syntax
+- Function wrappers
+- timer, debug examples
+- 4 files done ✅
