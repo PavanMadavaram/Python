@@ -253,3 +253,10 @@
 - Function wrappers
 - timer, debug examples
 - 4 files done ✅
+
+
+## Day 42 ✅ Generator Functions (NEW)
+- yield keyword
+- Memory efficient loops
+- Lazy evaluation
+- 4 files done ✅
