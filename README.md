@@ -214,49 +214,56 @@
 - 4 files done ✅
 
 
-## Day 36 ✅ Modules & Import (NEW)
+## Day 36 ✅ Modules & Import 
 - import math, random, datetime
 - Use built-in modules
 - 4 files done ✅
 
 
-## Day 37 ✅ BUILT-IN Modules (SAFE)
+## Day 37 ✅ BUILT-IN Modules 
 - sys, time, json (no pip needed)
 - No external packages
 - 100% working everywhere
 - 4 files done ✅
 
 
-## Day 38 ✅ Class Properties (NEW)
+## Day 38 ✅ Class Properties 
 - Class variables (shared)
 - Access via ClassName.prop
 - Count objects
 - 4 files done ✅
 
 
-## Day 39 ✅ @property Decorator (NEW)
+## Day 39 ✅ @property Decorator 
 - Getter methods
 - Access like attributes
 - Encapsulation
 - 4 files done ✅
 
 
-## Day 40 ✅ Advanced List Comprehensions (NEW)
+## Day 40 ✅ Advanced List Comprehensions
 - [x for x in list if condition]
 - Multiple operations
 - Filter + transform
 - 4 files done ✅
 
 
-## Day 41 ✅ Decorators (NEW)
+## Day 41 ✅ Decorators 
 - @decorator syntax
 - Function wrappers
 - timer, debug examples
 - 4 files done ✅
 
 
-## Day 42 ✅ Generator Functions (NEW)
+## Day 42 ✅ Generator Functions
 - yield keyword
 - Memory efficient loops
 - Lazy evaluation
+- 4 files done ✅
+
+
+## Day 43 ✅ map() & filter() with Lambda
+- map(lambda, list) transforms
+- filter(lambda, list) selects
+- Higher-order functions
 - 4 files done ✅
