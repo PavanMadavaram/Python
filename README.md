@@ -267,3 +267,10 @@
 - filter(lambda, list) selects
 - Higher-order functions
 - 4 files done ✅
+
+
+## Day 44 ✅ Context Managers (NEW)
+- __enter__() & __exit__()
+- with statement cleanup
+- Resource management
+- 4 files done ✅
