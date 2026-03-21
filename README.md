@@ -274,3 +274,10 @@
 - with statement cleanup
 - Resource management
 - 4 files done ✅
+
+
+## Day 45 ✅ Generator Expressions (NEW)
+- (x for x in ...) syntax
+- Memory efficient vs []
+- Lazy evaluation
+- 4 files done ✅
