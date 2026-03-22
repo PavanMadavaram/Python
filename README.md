@@ -281,3 +281,10 @@
 - Memory efficient vs []
 - Lazy evaluation
 - 4 files done ✅
+
+
+## Day 46 ✅ zip() Function (NEW)
+- zip() pairs iterables
+- list(zip()), dict(zip())
+- Parallel iteration
+- 4 files done ✅
