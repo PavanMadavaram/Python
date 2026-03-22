@@ -1,0 +1,7 @@
+#Day 46 - zip Helper
+fruits = ["apple", "banana"]
+prices = [50, 30]
+
+# Create dictionary
+menu = dict(zip(fruits, prices))
+print("Menu:", menu)
