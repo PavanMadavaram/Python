@@ -288,3 +288,10 @@
 - list(zip()), dict(zip())
 - Parallel iteration
 - 4 files done ✅
+
+
+## Day 47 ✅ *args & **kwargs (NEW)
+- Variable arguments
+- *args = tuple, **kwargs = dict
+- Flexible functions
+- 4 files done ✅
