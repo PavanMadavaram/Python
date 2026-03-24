@@ -295,3 +295,10 @@
 - *args = tuple, **kwargs = dict
 - Flexible functions
 - 4 files done ✅
+
+
+## Day 48 ✅ any() & all() (NEW)
+- any() if ANY true
+- all() if ALL true
+- Short-circuit evaluation
+- 4 files done ✅
