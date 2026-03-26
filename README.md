@@ -308,3 +308,10 @@
 - enumerate(list, start=1)
 - Find index efficiently
 - 4 files done ✅
+
+
+## Day 50 ✅ collections.Counter (NEW)
+- from collections import Counter
+- Count frequencies
+- most_common()
+- 4 files done ✅
