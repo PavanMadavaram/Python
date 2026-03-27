@@ -315,3 +315,10 @@
 - Count frequencies
 - most_common()
 - 4 files done ✅
+
+
+## Day 51 ✅ namedtuple (NEW)
+- Named fields for tuples
+- Like class but lightweight
+- from collections import namedtuple
+- 4 files done ✅
