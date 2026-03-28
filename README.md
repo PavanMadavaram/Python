@@ -269,56 +269,63 @@
 - 4 files done ✅
 
 
-## Day 44 ✅ Context Managers (NEW)
+## Day 44 ✅ Context Managers 
 - __enter__() & __exit__()
 - with statement cleanup
 - Resource management
 - 4 files done ✅
 
 
-## Day 45 ✅ Generator Expressions (NEW)
+## Day 45 ✅ Generator Expressions 
 - (x for x in ...) syntax
 - Memory efficient vs []
 - Lazy evaluation
 - 4 files done ✅
 
 
-## Day 46 ✅ zip() Function (NEW)
+## Day 46 ✅ zip() Function 
 - zip() pairs iterables
 - list(zip()), dict(zip())
 - Parallel iteration
 - 4 files done ✅
 
 
-## Day 47 ✅ *args & **kwargs (NEW)
+## Day 47 ✅ *args & **kwargs 
 - Variable arguments
 - *args = tuple, **kwargs = dict
 - Flexible functions
 - 4 files done ✅
 
 
-## Day 48 ✅ any() & all() (NEW)
+## Day 48 ✅ any() & all() 
 - any() if ANY true
 - all() if ALL true
 - Short-circuit evaluation
 - 4 files done ✅
 
 
-## Day 49 ✅ enumerate() Advanced (NEW)
+## Day 49 ✅ enumerate() Advanced 
 - enumerate(list, start=1)
 - Find index efficiently
 - 4 files done ✅
 
 
-## Day 50 ✅ collections.Counter (NEW)
+## Day 50 ✅ collections.Counter 
 - from collections import Counter
 - Count frequencies
 - most_common()
 - 4 files done ✅
 
 
-## Day 51 ✅ namedtuple (NEW)
+## Day 51 ✅ namedtuple
 - Named fields for tuples
 - Like class but lightweight
 - from collections import namedtuple
+- 4 files done ✅
+
+
+## Day 52 ✅ defaultdict
+- Default values for keys
+- No KeyError
+- defaultdict(list), defaultdict(int)
 - 4 files done ✅
