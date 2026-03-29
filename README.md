@@ -329,3 +329,11 @@
 - No KeyError
 - defaultdict(list), defaultdict(int)
 - 4 files done ✅
+
+
+## Day 53 ✅ deque (NEW)
+- Double-ended queue
+- appendleft(), popleft()
+- maxlen for sliding window
+- 4 files done ✅
+
