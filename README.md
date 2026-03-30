@@ -331,9 +331,15 @@
 - 4 files done ✅
 
 
-## Day 53 ✅ deque (NEW)
+## Day 53 ✅ deque 
 - Double-ended queue
 - appendleft(), popleft()
 - maxlen for sliding window
 - 4 files done ✅
 
+
+## Day 54 ✅ Advanced Exception Handling 
+- Multiple except clauses
+- else, finally blocks
+- Exception as e
+- 4 files done ✅
