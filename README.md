@@ -343,3 +343,10 @@
 - else, finally blocks
 - Exception as e
 - 4 files done ✅
+
+
+**## Day 55 ✅ Custom Exceptions (NEW)
+- class MyError(Exception):
+- raise MyError("msg")
+- Specific error handling
+- 4 files done ✅**
