@@ -345,8 +345,15 @@
 - 4 files done ✅
 
 
-**## Day 55 ✅ Custom Exceptions (NEW)
+**## Day 55 ✅ Custom Exceptions 
 - class MyError(Exception):
 - raise MyError("msg")
 - Specific error handling
 - 4 files done ✅**
+
+
+## Day 56 ✅ Type Hints 
+- def func(a: int) -> str:
+- List[int], Dict[str, int]
+- Better code documentation
+- 4 files done ✅
