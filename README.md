@@ -357,3 +357,10 @@
 - List[int], Dict[str, int]
 - Better code documentation
 - 4 files done ✅
+
+
+## Day 57 ✅ Dataclasses 
+- @dataclass decorator
+- Auto __init__, __repr__
+- Less boilerplate than classes
+- 4 files done ✅
