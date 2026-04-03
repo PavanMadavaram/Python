@@ -364,3 +364,10 @@
 - Auto __init__, __repr__
 - Less boilerplate than classes
 - 4 files done ✅
+
+
+## Day 58 ✅ Walrus Operator
+- Assign in expressions
+- if (x := value) > 10:
+- while (line := input()) != "quit":
+- 4 files done ✅
