@@ -373,3 +373,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - if (x := value) > 10:
 - while (line := input()) != "quit":
 - 4 files done ✅
+
+
+## Day 59 ✅ match-case
+- Basic match/case syntax
+- Default case with _
+- No advanced features
+- 4 files done ✅
