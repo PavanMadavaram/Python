@@ -1,4 +1,4 @@
-This repository tracks my daily Python coding practice---Daily Basic Python Streak---
+This repository tracks my daily Python coding practice, featuring scripts for data analysis, automation,  ---Daily Basic Python Streak---
 
 ## Day 1 ✅ Variables & Print
 - Learned variables, strings, f-strings
