@@ -345,11 +345,11 @@
 - 4 files done ✅
 
 
-**## Day 55 ✅ Custom Exceptions 
+## Day 55 ✅ Custom Exceptions 
 - class MyError(Exception):
 - raise MyError("msg")
 - Specific error handling
-- 4 files done ✅**
+- 4 files done ✅
 
 
 ## Day 56 ✅ Type Hints 
