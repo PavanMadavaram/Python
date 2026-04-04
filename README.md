@@ -1,4 +1,4 @@
-Daily Python scripts showcasing data analysis, automation, ---Daily Basic Python Streak---
+Daily Python scripts showcasing data analysis, automation, and core programming exercises for skill-building.---Daily Basic Python Streak---
 
 ## Day 1 ✅ Variables & Print
 - Learned variables, strings, f-strings
