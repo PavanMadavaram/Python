@@ -380,3 +380,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - Default case with _
 - No advanced features
 - 4 files done ✅
+
+
+## Day 60 ✅ Regular Expressions 
+- import re
+- re.match(), re.search()
+- Basic patterns \d, \w
+- 4 files done ✅
