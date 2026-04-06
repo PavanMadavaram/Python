@@ -387,3 +387,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - re.match(), re.search()
 - Basic patterns \d, \w
 - 4 files done ✅
+
+
+## Day 61 ✅ JSON Processing
+- import json
+- json.dumps(), json.loads()
+- API data handling
+- 4 files done ✅
