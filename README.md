@@ -394,3 +394,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - json.dumps(), json.loads()
 - API data handling
 - 4 files done ✅
+
+
+## Day 62 ✅ CSV Processing
+- import csv
+- csv.writer(), csv.reader()
+- Data file handling
+- 4 files done ✅
