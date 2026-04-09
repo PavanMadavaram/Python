@@ -401,3 +401,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - csv.writer(), csv.reader()
 - Data file handling
 - 4 files done ✅
+
+
+## Day 63 ✅ os Module 
+- import os (no pip needed)
+- os.getcwd(), os.listdir()
+- File system access
+- 4 files done ✅
