@@ -408,3 +408,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - os.getcwd(), os.listdir()
 - File system access
 - 4 files done ✅
+
+
+## Day 64 ✅ datetime Module
+- from datetime import datetime
+- .strftime() formatting
+- timedelta for dates
+- 4 files done ✅
