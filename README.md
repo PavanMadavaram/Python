@@ -415,3 +415,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - .strftime() formatting
 - timedelta for dates
 - 4 files done ✅
+
+
+## Day 65 ✅ pathlib Module
+- from pathlib import Path
+- Path.glob(), .exists()
+- Modern file paths
+- 4 files done ✅
