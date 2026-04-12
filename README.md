@@ -422,3 +422,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - Path.glob(), .exists()
 - Modern file paths
 - 4 files done ✅
+
+
+## Day 66 ✅ random Module Advanced 
+- random.shuffle(), random.choice()
+- random.randint(), random.uniform()
+- Games and simulations
+- 4 files done ✅
