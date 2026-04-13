@@ -1,0 +1,5 @@
+#Day 67 - Test
+import hashlib
+test_hash = hashlib.sha256(b"test").hexdigest()
+print("Hash test:", len(test_hash) == 64)
+print("Day 67 test ok")
