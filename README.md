@@ -429,3 +429,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - random.randint(), random.uniform()
 - Games and simulations
 - 4 files done ✅
+
+
+## Day 67 ✅ hashlib Module 
+- import hashlib
+- sha256(), md5()
+- Data integrity/security
+- 4 files done ✅
