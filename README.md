@@ -436,3 +436,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - sha256(), md5()
 - Data integrity/security
 - 4 files done ✅
+
+
+## Day 68 ✅ logging Module 
+- import logging
+- logging.info(), .warning()
+- Professional logging
+- 4 files done ✅
