@@ -443,3 +443,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - logging.info(), .warning()
 - Professional logging
 - 4 files done ✅
+
+
+## Day 69 ✅ math Module Advanced 
+- import math
+- sqrt, factorial, sin/cos
+- Scientific calculations
+- 4 files done ✅
