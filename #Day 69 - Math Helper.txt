@@ -1,0 +1,7 @@
+#Day 68 - Math Helper
+import math
+
+# Trigonometry
+angle = math.radians(30)
+print("Sin 30°:", math.sin(angle))
+print("Cos 30°:", math.cos(angle))
