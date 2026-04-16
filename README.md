@@ -450,3 +450,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - sqrt, factorial, sin/cos
 - Scientific calculations
 - 4 files done ✅
+
+
+## Day 70 ✅ calendar Module 
+- calendar.month(), isleap()
+- Day names, weekday()
+- Calendar generation
+- 4 files done ✅
