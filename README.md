@@ -457,3 +457,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - Day names, weekday()
 - Calendar generation
 - 4 files done ✅
+
+
+## Day 71 ✅ random Module 
+- random.randint(), random.choice()
+- shuffle(), sample()
+- Games & simulations
+- 4 files done ✅
