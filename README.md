@@ -16,6 +16,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 3 ✅ Even/Odd
+
 - if-elif-else statements
 - Modulo operator %
 - 4 files committed
