@@ -9,6 +9,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - 4 files committed
 
 ## Day 2 ✅ Calculator
+
 - Input/output, arithmetic operators
 - Helper functions created
 - 4 files committed
