@@ -23,6 +23,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 4 ✅ Multiplication Table
+
 - for loops, range()
 - Nested calculations
 - 4 files committed
