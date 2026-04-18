@@ -3,6 +3,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 ---Daily Basic Python Streak---
 
 ## Day 1 ✅ Variables & Print
+
 - Learned variables, strings, f-strings
 - 4 files committed
 - 4 files committed
