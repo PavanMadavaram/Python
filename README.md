@@ -44,6 +44,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 7 ✅ Tuples
+
 - Tuple creation, indexing, len()
 - Helper functions for tuples  
 - 4 files committed ✅
