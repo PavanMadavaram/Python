@@ -30,6 +30,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 5 ✅ While Loop
+
 - while loops
 - Counter variables
 - 4 files committed
