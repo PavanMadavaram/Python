@@ -51,6 +51,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 8 ✅ Dictionaries
+
 - Key-value pairs, .keys()
 - Helper functions for profiles
 - 4 files committed ✅
