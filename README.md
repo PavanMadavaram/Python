@@ -58,6 +58,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 9 ✅ List Loops
+
 - for loops with lists, append()
 - Filter even numbers
 - 4 files committed ✅
