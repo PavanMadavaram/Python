@@ -65,6 +65,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 10 ✅ Nested Lists
+
 - 2D lists, nested loops
 - Shopping cart calculator
 - 4 files committed ✅
