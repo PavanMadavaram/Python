@@ -79,6 +79,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 12 ✅ Math Functions
+
 - Add, multiply functions
 - Square helper
 - 4 files committed ✅
