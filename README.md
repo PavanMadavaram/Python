@@ -72,6 +72,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 11 ✅ Functions
+
 - def keyword, return
 - Simple addition
 - 4 files committed ✅
