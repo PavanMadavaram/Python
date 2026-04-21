@@ -1,0 +1,4 @@
+#Day 72 - Test
+import os
+print("OS test:", os.name == 'posix' or os.name == 'nt')
+print("Day 72 test ok")
