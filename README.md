@@ -476,3 +476,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - shuffle(), sample()
 - Games & simulations
 - 4 files done ✅
+
+
+## Day 72 ✅ os Module
+- os.getcwd(), listdir()
+- path.exists(), getenv()
+- System interaction
+- 4 files done ✅
