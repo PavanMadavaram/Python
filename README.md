@@ -483,3 +483,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - path.exists(), getenv()
 - System interaction
 - 4 files done ✅
+
+
+## Day 73 ✅ json Module 
+- json.dumps(), loads()
+- File dump
+- Data interchange
+- 4 files done ✅
