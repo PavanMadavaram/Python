@@ -1,0 +1,6 @@
+#Day 74 - Sys Helper
+import sys
+
+# Exit
+sys.exit(0)  # Won't run in most IDEs
+print("Path:", sys.path[0])
