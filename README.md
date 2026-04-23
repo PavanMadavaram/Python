@@ -490,3 +490,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - File dump
 - Data interchange
 - 4 files done ✅
+
+
+## Day 74 ✅ sys Module
+- sys.version, argv
+- platform, path
+- System info
+- 4 files done ✅
