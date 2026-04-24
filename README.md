@@ -497,3 +497,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - platform, path
 - System info
 - 4 files done ✅
+
+
+## Day 75 ✅ pickle Module
+- pickle.dump(), load()
+- Binary serialization
+- Save Python objects
+- 4 files done ✅
