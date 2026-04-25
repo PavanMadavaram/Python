@@ -504,3 +504,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - Binary serialization
 - Save Python objects
 - 4 files done ✅
+
+
+## Day 76 ✅ pathlib Module 
+- Path(), iterdir()
+- mkdir(), read_text()
+- Modern file paths
+- 4 files done ✅
