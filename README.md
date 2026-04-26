@@ -511,3 +511,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - mkdir(), read_text()
 - Modern file paths
 - 4 files done ✅
+
+
+## Day 77 ✅ collections Module 
+- Counter(), namedtuple()
+- deque for efficient ops
+- Specialized containers
+- 4 files done ✅
