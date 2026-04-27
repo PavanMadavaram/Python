@@ -518,3 +518,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - deque for efficient ops
 - Specialized containers
 - 4 files done ✅
+
+
+## Day 78 ✅ re Module 
+- re.findall(), match()
+- re.sub() replace
+- Text pattern matching
+- 4 files done ✅
