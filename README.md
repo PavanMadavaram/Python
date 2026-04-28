@@ -525,3 +525,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - re.sub() replace
 - Text pattern matching
 - 4 files done ✅
+
+
+## Day 79 ✅ itertools Module
+- count(), combinations()
+- permutations(), product()
+- Efficient iterators
+- 4 files done ✅
