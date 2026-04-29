@@ -532,3 +532,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - permutations(), product()
 - Efficient iterators
 - 4 files done ✅
+
+
+## Day 80 ✅ functools Module
+- @cache memoization
+- reduce(), partial()
+- Functional programming
+- 4 files done ✅
