@@ -93,6 +93,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 14 ✅ Vowel Counter
+
 - Count vowels in word
 - in operator
 - 4 files done ✅
