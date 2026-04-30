@@ -540,3 +540,9 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - Functional programming
 - 4 files done ✅
 
+
+## Day 81 ✅ csv Module 
+- csv.writer(), writerows()
+- DictReader for headers
+- Data import/export
+- 4 files done ✅
