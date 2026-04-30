@@ -100,6 +100,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 15 ✅ f-Strings
+
 - f"text {var}"
 - Formatted output
 - 4 files done ✅
