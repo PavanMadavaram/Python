@@ -86,6 +86,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 13 ✅ Strings
+
 - Reverse with [::-1]
 - len() function
 - 4 files committed ✅
