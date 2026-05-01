@@ -1,0 +1,7 @@
+#Day 82 - Test
+import time
+t1 = time.time()
+time.sleep(0.1)
+t2 = time.time()
+print("Time test:", t2 - t1 > 0.05)
+print("Day 82 test ok")
