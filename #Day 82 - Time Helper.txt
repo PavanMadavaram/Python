@@ -1,0 +1,9 @@
+#Day 82 - Time Helper
+import time
+
+# Performance timing
+start = time.time()
+total = sum(range(1000000))
+end = time.time()
+
+print(f"Sum 1M took {end-start:.4f} seconds")
