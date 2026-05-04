@@ -114,6 +114,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 17 ✅ Filter Lists
+
 - [x for x in lst if condition]
 - Filter even/big numbers
 - 4 files done ✅
