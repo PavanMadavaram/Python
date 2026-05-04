@@ -121,6 +121,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 18 ✅ Rock Paper Scissors
+
 - random.choice() fixed
 - Simple if-elif logic
 - 4 files done ✅
