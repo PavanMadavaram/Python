@@ -156,6 +156,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 23 ✅ Try Except
+
 - try: except: error handling
 - ValueError, ZeroDivisionError
 - 4 files done ✅
