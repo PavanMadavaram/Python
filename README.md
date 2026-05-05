@@ -142,6 +142,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 21 ✅ File Write
+
 - with open("file", "w")
 - file.write() method
 - 4 files done ✅
