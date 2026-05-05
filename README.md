@@ -149,6 +149,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 22 ✅ File Read
+
 - with open("file", "r")
 - file.read(), for line in file
 - 4 files done ✅
