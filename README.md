@@ -163,6 +163,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 24 ✅ BMI Calculator
+
 - BMI formula: weight/(height²)
 - if-elif categories
 - 4 files done ✅
