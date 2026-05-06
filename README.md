@@ -177,6 +177,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 26 ✅ Number Words
+
 - Dictionary lookup
 - .get() method
 - Helper function
