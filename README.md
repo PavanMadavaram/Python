@@ -184,7 +184,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - 4 files done ✅
 
 
-## Day 27 ✅ File Operations (NEW)
+## Day 27 ✅ File Operations 
 - open() write mode
 - with statement
 - File helper
