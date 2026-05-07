@@ -192,7 +192,8 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - 4 files done ✅
 
 
-## Day 28 ✅ Sets (NEW TOPIC)
+## Day 28 ✅ Sets 
+
 - set() removes duplicates
 - Set helper function
 - len(set) works
