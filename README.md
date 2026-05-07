@@ -238,6 +238,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 34 ✅ Class Methods
+
 - Methods with self
 - Change object state
 - 4 files done ✅
