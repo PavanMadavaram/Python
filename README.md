@@ -224,6 +224,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 32 ✅ String Slicing
+
 - text[a:b], text[-x:]
 - Step in slicing
 - 4 files done ✅
