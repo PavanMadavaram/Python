@@ -217,6 +217,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 31 ✅ List Slicing
+
 - lst[start:end:step]
 - [:3], [1:-1], [::2]
 - 4 files done ✅
