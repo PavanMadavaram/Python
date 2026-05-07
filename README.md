@@ -201,6 +201,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 29 ✅ Lambda Functions
+
 - lambda x: expression
 - Anonymous functions
 - Lambda helper
