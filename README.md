@@ -231,6 +231,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 33 ✅ Classes & Objects
+
 - class, __init__, self
 - Create instances
 - 4 files done ✅
