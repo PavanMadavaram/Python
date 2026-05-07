@@ -207,7 +207,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - 4 files done ✅
 
 
-## Day 30 ✅ Enumerate (NEW)
+## Day 30 ✅ Enumerate 
 - enumerate() index+value
 - Loop with indices
 - Helper function
