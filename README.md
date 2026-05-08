@@ -245,6 +245,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 35 ✅ Inheritance
+
 - Base and child classes
 - Override methods
 - 4 files done ✅
