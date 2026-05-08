@@ -252,6 +252,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 36 ✅ Modules & Import 
+
 - import math, random, datetime
 - Use built-in modules
 - 4 files done ✅
