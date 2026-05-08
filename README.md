@@ -267,6 +267,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 38 ✅ Class Properties 
+
 - Class variables (shared)
 - Access via ClassName.prop
 - Count objects
