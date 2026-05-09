@@ -291,6 +291,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 41 ✅ Decorators 
+
 - @decorator syntax
 - Function wrappers
 - timer, debug examples
