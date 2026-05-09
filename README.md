@@ -283,6 +283,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 40 ✅ Advanced List Comprehensions
+
 - [x for x in list if condition]
 - Multiple operations
 - Filter + transform
