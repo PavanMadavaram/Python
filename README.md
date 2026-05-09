@@ -299,6 +299,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 42 ✅ Generator Functions
+
 - yield keyword
 - Memory efficient loops
 - Lazy evaluation
