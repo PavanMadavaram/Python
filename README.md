@@ -275,6 +275,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 39 ✅ @property Decorator 
+
 - Getter methods
 - Access like attributes
 - Encapsulation
