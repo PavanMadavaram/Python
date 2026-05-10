@@ -323,6 +323,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 45 ✅ Generator Expressions 
+
 - (x for x in ...) syntax
 - Memory efficient vs []
 - Lazy evaluation
