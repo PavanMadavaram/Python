@@ -315,6 +315,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 44 ✅ Context Managers 
+
 - __enter__() & __exit__()
 - with statement cleanup
 - Resource management
