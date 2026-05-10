@@ -331,6 +331,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 46 ✅ zip() Function 
+
 - zip() pairs iterables
 - list(zip()), dict(zip())
 - Parallel iteration
