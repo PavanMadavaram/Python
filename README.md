@@ -307,6 +307,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 43 ✅ map() & filter() with Lambda
+
 - map(lambda, list) transforms
 - filter(lambda, list) selects
 - Higher-order functions
