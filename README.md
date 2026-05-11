@@ -362,6 +362,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 50 ✅ collections.Counter 
+
 - from collections import Counter
 - Count frequencies
 - most_common()
