@@ -339,6 +339,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 47 ✅ *args & **kwargs 
+
 - Variable arguments
 - *args = tuple, **kwargs = dict
 - Flexible functions
