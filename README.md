@@ -587,3 +587,10 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - Performance timing
 - Basic timing utils
 - 4 files done ✅
+
+
+## Day 83 ✅ argparse Module 
+- ArgumentParser()
+- Positional, optional args
+- CLI tools
+- 4 files done ✅
