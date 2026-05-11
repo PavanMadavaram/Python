@@ -347,6 +347,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 48 ✅ any() & all() 
+
 - any() if ANY true
 - all() if ALL true
 - Short-circuit evaluation
