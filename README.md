@@ -370,6 +370,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 51 ✅ namedtuple
+
 - Named fields for tuples
 - Like class but lightweight
 - from collections import namedtuple
