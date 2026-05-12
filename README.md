@@ -402,6 +402,7 @@
 
 
 ## Day 55 ✅ Custom Exceptions 
+
 - class MyError(Exception):
 - raise MyError("msg")
 - Specific error handling
