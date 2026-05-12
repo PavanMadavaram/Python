@@ -1,4 +1,4 @@
-Daily Python scripts showcasing data analysis, automation, and core programming exercises for skill-building.
+ Daily Python scripts showcasing data analysis, automation, and core programming exercises for skill-building.
 
 ---Daily Basic Python Streak---
 
