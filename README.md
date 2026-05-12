@@ -370,7 +370,6 @@
 
 
 ## Day 51 ✅ namedtuple
-
 - Named fields for tuples
 - Like class but lightweight
 - from collections import namedtuple
@@ -378,7 +377,6 @@
 
 
 ## Day 52 ✅ defaultdict
-
 - Default values for keys
 - No KeyError
 - defaultdict(list), defaultdict(int)
@@ -386,7 +384,6 @@
 
 
 ## Day 53 ✅ deque 
-
 - Double-ended queue
 - appendleft(), popleft()
 - maxlen for sliding window
@@ -394,7 +391,6 @@
 
 
 ## Day 54 ✅ Advanced Exception Handling 
-
 - Multiple except clauses
 - else, finally blocks
 - Exception as e
@@ -402,7 +398,6 @@
 
 
 ## Day 55 ✅ Custom Exceptions 
-
 - class MyError(Exception):
 - raise MyError("msg")
 - Specific error handling
