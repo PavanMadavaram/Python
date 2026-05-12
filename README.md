@@ -369,7 +369,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 - 4 files done ✅
 
 
-## Day 51 ✅ namedtuple
+## Day 51 ✅  namedtuple
 
 - Named fields for tuples
 - Like class but lightweight
