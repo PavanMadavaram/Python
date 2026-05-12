@@ -378,6 +378,7 @@ Daily Python scripts showcasing data analysis, automation, and core programming 
 
 
 ## Day 52 ✅ defaultdict
+
 - Default values for keys
 - No KeyError
 - defaultdict(list), defaultdict(int)
