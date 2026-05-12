@@ -378,6 +378,7 @@
 
 
 ## Day 52 ✅ defaultdict
+
 - Default values for keys
 - No KeyError
 - defaultdict(list), defaultdict(int)
