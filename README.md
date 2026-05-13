@@ -600,3 +600,10 @@
 - Positional, optional args
 - CLI tools
 - 4 files done ✅
+
+
+## Day 84 ✅ hashlib Module
+- hashlib.md5(), sha256()
+- File hashing
+- Data integrity
+- 4 files done ✅
