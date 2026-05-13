@@ -1,0 +1,15 @@
+#Day 84 - Hash Helper
+import hashlib
+
+# File hash
+def hash_file(filename):
+    h = hashlib.sha256()
+    try:
+        with open(filename, 'rb') as f:
+            for chunk in iter(lambda: f.read(4096), b""):
+                h.update(chunk)
+        return h.hexdigest()
+    except FileNotFoundError:
+        return None
+
+print("day84.py hash:", hash_file('day84.py'))
