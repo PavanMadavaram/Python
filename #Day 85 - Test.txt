@@ -1,0 +1,7 @@
+#Day 85 - Test
+import base64
+test = "test"
+enc = base64.b64encode(test.encode()).decode()
+dec = base64.b64decode(enc).decode()
+print("Base64 test:", dec == test)
+print("Day 85 test ok")
