@@ -607,3 +607,10 @@
 - File hashing
 - Data integrity
 - 4 files done ✅
+
+
+## Day 85 ✅ base64 Module
+- b64encode(), b64decode()
+- File encoding
+- URL-safe encoding
+- 4 files done ✅
