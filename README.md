@@ -410,6 +410,7 @@
 
 
 ## Day 56 ✅ Type Hints 
+
 - def func(a: int) -> str:
 - List[int], Dict[str, int]
 - Better code documentation
