@@ -618,3 +618,10 @@
 - File encoding
 - URL-safe encoding
 - 4 files done ✅
+
+
+## Day 86 ✅ logging Module 
+- logging.basicConfig()
+- log levels and formatters
+- Better debugging
+- 4 files done ✅
