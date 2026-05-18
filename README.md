@@ -625,3 +625,10 @@
 - log levels and formatters
 - Better debugging
 - 4 files done ✅
+
+
+## Day 87 ✅ shutil Module 
+- disk_usage(), copy(), move()
+- make_archive()
+- File and folder operations
+- 4 files done ✅
