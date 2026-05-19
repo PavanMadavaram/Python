@@ -632,3 +632,10 @@
 - make_archive()
 - File and folder operations
 - 4 files done ✅
+
+
+## Day 88 ✅ sqlite3 Module 
+- sqlite3.connect()
+- CREATE, INSERT, SELECT
+- Simple local database
+- 4 files done ✅
