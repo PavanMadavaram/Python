@@ -1,0 +1,11 @@
+#Day 88 - Test
+import sqlite3
+
+conn = sqlite3.connect(':memory:')
+cur = conn.cursor()
+cur.execute('CREATE TABLE t (x INTEGER)')
+cur.execute('INSERT INTO t VALUES (1)')
+cur.execute('SELECT x FROM t')
+print("SQLite test:", cur.fetchone()[0] == 1)
+print("Day 88 test ok")
+conn.close()
