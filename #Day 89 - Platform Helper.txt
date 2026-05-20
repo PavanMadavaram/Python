@@ -1,0 +1,6 @@
+#Day 89 - Platform Helper
+import platform
+
+print("Platform:", platform.platform())
+print("Processor:", platform.processor())
+print("Node:", platform.node())
