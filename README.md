@@ -639,3 +639,10 @@
 - CREATE, INSERT, SELECT
 - Simple local database
 - 4 files done ✅
+
+
+## Day 89 ✅ platform Module 
+- platform.system(), release()
+- python_version(), machine()
+- System info and diagnostics
+- 4 files done ✅
