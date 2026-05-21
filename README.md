@@ -646,3 +646,10 @@
 - python_version(), machine()
 - System info and diagnostics
 - 4 files done ✅
+
+
+## Day 90 ✅ Final Project: News App
+- Fetches data from a public API using urllib
+- Falls back to offline sample data
+- Saves a backup JSON file
+- 4 files done ✅
