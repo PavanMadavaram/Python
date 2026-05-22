@@ -1,0 +1,4 @@
+#Day 91 - Test
+import zipfile
+print("Zip test:", hasattr(zipfile, "ZipFile"))
+print("Day 91 test ok")
