@@ -1,0 +1,12 @@
+#Day 91 - Zip Helper
+import zipfile
+
+# Read ZIP contents
+with zipfile.ZipFile("day91_archive.zip", "r") as zipf:
+    print("Files in zip:", zipf.namelist())
+
+# Extract files
+with zipfile.ZipFile("day91_archive.zip", "r") as zipf:
+    zipf.extractall("extracted_day91")
+
+print("Extracted to extracted_day91/")
