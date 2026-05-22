@@ -653,3 +653,10 @@
 - Falls back to offline sample data
 - Saves a backup JSON file
 - 4 files done ✅
+
+
+## Day 91 ✅ zipfile Module 
+- zipfile.ZipFile()
+- Create and extract archives
+- File compression basics
+- 4 files done ✅
