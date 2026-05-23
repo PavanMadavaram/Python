@@ -1,0 +1,4 @@
+#Day 92 - Test
+import threading
+print("Thread test:", hasattr(threading, "Thread"))
+print("Day 92 test ok")
