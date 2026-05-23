@@ -660,3 +660,10 @@
 - Create and extract archives
 - File compression basics
 - 4 files done ✅
+
+
+## Day 92 ✅ threading Module
+- threading.Thread()
+- join() for synchronization
+- Concurrent task basics
+- 4 files done ✅
