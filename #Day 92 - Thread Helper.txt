@@ -1,0 +1,11 @@
+#Day 92 - Thread Helper
+import threading
+
+def print_numbers():
+    for i in range(3):
+        print("Num:", i)
+
+t = threading.Thread(target=print_numbers)
+t.start()
+t.join()
+print("Helper complete")
