@@ -667,3 +667,10 @@
 - join() for synchronization
 - Concurrent task basics
 - 4 files done ✅
+
+
+## Day 93 ✅ multiprocessing Module 
+- Process()
+- Pool.map()
+- Parallel task basics
+- 4 files done ✅
