@@ -674,3 +674,10 @@
 - Pool.map()
 - Parallel task basics
 - 4 files done ✅
+
+
+## Day 94 ✅ traceback Module 
+- traceback.print_exc()
+- traceback.format_exc()
+- Debugging and error reporting
+- 4 files done ✅
