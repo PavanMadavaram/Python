@@ -1,0 +1,10 @@
+#Day 95 - UUID Helper
+import uuid
+
+# Check if UUID is valid
+sample = "12345678-1234-5678-1234-567812345678"
+try:
+    parsed = uuid.UUID(sample)
+    print("Valid UUID:", parsed)
+except ValueError:
+    print("Invalid UUID")
