@@ -688,3 +688,10 @@
 - Unique identifiers
 - Validation and parsing
 - 4 files done ✅
+
+
+## Day 96 ✅ asyncio Module 
+- async/await
+- asyncio.run(), gather()
+- Concurrent async tasks
+- 4 files done ✅
