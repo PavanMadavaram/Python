@@ -695,3 +695,10 @@
 - asyncio.run(), gather()
 - Concurrent async tasks
 - 4 files done ✅
+
+
+## Day 97 ✅ contextlib Module 
+- @contextmanager
+- suppress()
+- Safe resource handling
+- 4 files done ✅
