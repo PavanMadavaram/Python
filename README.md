@@ -702,3 +702,10 @@
 - suppress()
 - Safe resource handling
 - 4 files done ✅
+
+
+## Day 98 ✅ pathlib + csv
+- Path handling with pathlib
+- Writing and reading CSV
+- Small data export workflow
+- 4 files done ✅
