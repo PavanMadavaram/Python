@@ -1,0 +1,6 @@
+#Day 98 - Test
+from pathlib import Path
+
+p = Path("day98_output.csv")
+print("Day 98 test:", p.suffix == ".csv")
+print("Day 98 test ok")
