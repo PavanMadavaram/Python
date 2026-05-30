@@ -709,3 +709,10 @@
 - Writing and reading CSV
 - Small data export workflow
 - 4 files done ✅
+
+
+## Day 99 ✅ configparser Module
+- Read/write INI config files
+- Section-based settings
+- Useful for app preferences
+- 4 files done ✅
