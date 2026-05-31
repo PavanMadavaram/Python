@@ -426,6 +426,7 @@
 
 
 ## Day 58 ✅ Walrus Operator
+
 - Assign in expressions
 - if (x := value) > 10:
 - while (line := input()) != "quit":
