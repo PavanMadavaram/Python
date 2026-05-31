@@ -418,6 +418,7 @@
 
 
 ## Day 57 ✅ Dataclasses 
+
 - @dataclass decorator
 - Auto __init__, __repr__
 - Less boilerplate than classes
