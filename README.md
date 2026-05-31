@@ -434,6 +434,7 @@
 
 
 ## Day 59 ✅ match-case
+
 - Basic match/case syntax
 - Default case with _
 - No advanced features
