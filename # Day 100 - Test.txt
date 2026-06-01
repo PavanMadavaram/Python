@@ -1,0 +1,6 @@
+# Day 100 - Test
+from pathlib import Path
+
+print("Day 100 test:", True)
+print("Summary exists:", Path("day100_summary.txt").exists())
+print("Day 100 test ok")
