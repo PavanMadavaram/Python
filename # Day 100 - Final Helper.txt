@@ -1,0 +1,8 @@
+# Day 100 - Final Helper
+from pathlib import Path
+
+p = Path("day100_summary.txt")
+if p.exists():
+    print(p.read_text())
+else:
+    print("Summary file not found")
