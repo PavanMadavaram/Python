@@ -1,4 +1,4 @@
-# Day 100 - final wrap-up
+# Day 100  -  final wrap-up
 from pathlib import Path
 
 summary = [
