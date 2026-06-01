@@ -12,4 +12,3 @@ Path("day100_summary.txt").write_text("\n".join(summary))
 print("Day 100 complete!")
 for line in summary:
     print("-", line)
-    
