@@ -1,4 +1,4 @@
-# Day 100 - Final Helper
+# Day 100  -  Final Helper
 from pathlib import Path
 
 p = Path("day100_summary.txt")
