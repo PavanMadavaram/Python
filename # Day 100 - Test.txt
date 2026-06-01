@@ -1,4 +1,4 @@
-# Day 100 - Test
+# Day 100  -  Test
 from pathlib import Path
 
 print("Day 100 test:", True)
