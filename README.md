@@ -727,3 +727,10 @@
 - Practiced many standard library modules
 - Built confidence with code structure
 - 4 files done ✅
+
+
+## Day 101 ✅ statistics Module
+- mean(), median(), mode()
+- stdev(), variance()
+- Data summary basics
+- 4 files done ✅
