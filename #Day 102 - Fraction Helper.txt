@@ -1,0 +1,10 @@
+#Day 102 - Fraction Helper
+from fractions import Fraction
+
+x = Fraction(2, 3)
+y = Fraction("0.25")
+
+print("X:", x)
+print("Y:", y)
+print("Subtract:", x - y)
+print("Limit denominator:", y.limit_denominator())
