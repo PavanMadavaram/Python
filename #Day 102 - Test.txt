@@ -1,0 +1,6 @@
+#Day 102 - Test
+from fractions import Fraction
+
+f = Fraction(1, 2) + Fraction(1, 2)
+print("Fractions test:", f == 1)
+print("Day 102 test ok")
