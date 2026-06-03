@@ -734,3 +734,10 @@
 - stdev(), variance()
 - Data summary basics
 - 4 files done ✅
+
+
+## Day 102 ✅ fractions Module 
+- Exact rational arithmetic
+- Fraction from strings and ints
+- Useful for precise math
+- 4 files done ✅
