@@ -741,3 +741,10 @@
 - Fraction from strings and ints
 - Useful for precise math
 - 4 files done ✅
+
+
+## Day 103 ✅ decimal Module 
+- Exact decimal arithmetic
+- getcontext().prec
+- Rounding and currency math
+- 4 files done ✅
