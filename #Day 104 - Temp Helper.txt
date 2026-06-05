@@ -1,0 +1,8 @@
+#Day 104 - Temp Helper
+import tempfile
+
+with tempfile.NamedTemporaryFile(mode="w+", delete=False) as f:
+    f.write("persistent temp data")
+    temp_name = f.name
+
+print("Created:", temp_name)
