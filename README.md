@@ -748,3 +748,10 @@
 - getcontext().prec
 - Rounding and currency math
 - 4 files done ✅
+
+
+## Day 104 ✅ tempfile Module 
+- TemporaryDirectory()
+- NamedTemporaryFile()
+- Safe short-term file handling
+- 4 files done ✅
