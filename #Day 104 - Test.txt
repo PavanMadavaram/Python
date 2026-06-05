@@ -1,0 +1,5 @@
+#Day 104 - Test
+import tempfile
+
+print("Tempfile test:", hasattr(tempfile, "TemporaryDirectory"))
+print("Day 104 test ok")
