@@ -755,3 +755,10 @@
 - NamedTemporaryFile()
 - Safe short-term file handling
 - 4 files done ✅
+
+
+## Day 105 ✅ enum Module 
+- Enum class
+- auto() values
+- Clear constant groups
+- 4 files done ✅
