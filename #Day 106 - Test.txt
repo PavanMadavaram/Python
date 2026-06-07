@@ -1,0 +1,11 @@
+#Day 106 - Test
+from dataclasses import dataclass
+
+@dataclass
+class Point:
+    x: int
+    y: int
+
+pt = Point(2, 3)
+print("Dataclass test:", pt.x == 2 and pt.y == 3)
+print("Day 106 test ok")
