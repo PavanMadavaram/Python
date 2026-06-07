@@ -762,3 +762,10 @@
 - auto() values
 - Clear constant groups
 - 4 files done ✅
+
+
+## Day 106 ✅ dataclasses Module
+- @dataclass
+- Less boilerplate for data objects
+- asdict() helper
+- 4 files done ✅
