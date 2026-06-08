@@ -474,6 +474,7 @@
 
 
 ## Day 64 ✅ datetime Module
+
 - from datetime import datetime
 - .strftime() formatting
 - timedelta for dates
