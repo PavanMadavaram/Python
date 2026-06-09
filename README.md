@@ -490,6 +490,7 @@
 
 
 ## Day 66 ✅ random Module Advanced 
+
 - random.shuffle(), random.choice()
 - random.randint(), random.uniform()
 - Games and simulations
