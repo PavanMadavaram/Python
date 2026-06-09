@@ -482,6 +482,7 @@
 
 
 ## Day 65 ✅ pathlib Module
+
 - from pathlib import Path
 - Path.glob(), .exists()
 - Modern file paths
