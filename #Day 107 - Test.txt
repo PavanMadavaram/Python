@@ -1,0 +1,6 @@
+#Day 107 - Test
+import contextvars
+
+flag = contextvars.ContextVar("flag", default=False)
+print("Contextvars test:", flag.get() is False)
+print("Day 107 test ok")
