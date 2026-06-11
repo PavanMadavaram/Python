@@ -1,0 +1,10 @@
+#Day 108 - Test
+import weakref
+
+class Box:
+    pass
+
+b = Box()
+r = weakref.ref(b)
+print("Weakref test:", r() is b)
+print("Day 108 test ok")
