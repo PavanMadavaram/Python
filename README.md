@@ -784,3 +784,10 @@
 - Safe values in async/task contexts
 - Useful for request tracking
 - 4 files done ✅
+
+
+## Day 108 ✅ weakref Module 
+- weakref.ref()
+- Weak references to objects
+- Useful for caches and avoiding memory leaks
+- 4 files done ✅
