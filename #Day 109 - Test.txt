@@ -1,0 +1,5 @@
+#Day 109 - Test
+from functools import reduce
+
+print("Day 109 test:", reduce(lambda x, y: x + y, [1, 2, 3]) == 6)
+print("Day 109 test ok")
