@@ -791,3 +791,10 @@
 - Weak references to objects
 - Useful for caches and avoiding memory leaks
 - 4 files done ✅
+
+
+## Day 109 ✅ functools + itertools combo
+- reduce() for aggregation
+- combinations(), permutations(), product()
+- Great for combinatorics and calculations
+- 4 files done ✅
