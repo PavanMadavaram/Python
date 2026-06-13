@@ -805,3 +805,10 @@
 - Save structured data to JSON
 - Read data back from file
 - 4 files done ✅
+
+
+## Day 111 ✅ bisect Module 
+- bisect.insort()
+- bisect_left(), bisect()
+- Keep lists sorted while inserting
+- 4 files done ✅
