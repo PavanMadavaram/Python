@@ -798,3 +798,10 @@
 - combinations(), permutations(), product()
 - Great for combinatorics and calculations
 - 4 files done ✅
+
+
+## Day 110 ✅ argparse + json combo
+- Build a simple profile saver
+- Save structured data to JSON
+- Read data back from file
+- 4 files done ✅
