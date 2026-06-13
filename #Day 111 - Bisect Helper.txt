@@ -1,0 +1,10 @@
+#Day 111 - Bisect Helper
+import bisect
+
+marks = [10, 20, 30, 40, 50]
+idx = bisect.bisect_left(marks, 30)
+
+print("Left index for 30:", idx)
+print("Marks before insert:", marks)
+bisect.insort_left(marks, 25)
+print("After insert:", marks)
