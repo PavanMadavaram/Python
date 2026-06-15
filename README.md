@@ -812,3 +812,10 @@
 - bisect_left(), bisect()
 - Keep lists sorted while inserting
 - 4 files done ✅
+
+
+## Day 112 ✅ heapq Module 
+- heapify(), heappush(), heappop()
+- nlargest(), nsmallest()
+- Priority queue basics
+- 4 files done ✅
