@@ -819,3 +819,10 @@
 - nlargest(), nsmallest()
 - Priority queue basics
 - 4 files done ✅
+
+
+## Day 113 ✅ pathlib + hashlib combo
+- Write text with pathlib
+- Hash file contents with hashlib
+- Simple file integrity workflow
+- 4 files done ✅
