@@ -1,0 +1,7 @@
+# Day 114 - Summary Helper
+import statistics as stats
+
+data = [12, 18, 21, 21, 25, 30, 33]
+print("Min:", min(data))
+print("Max:", max(data))
+print("Variance:", round(stats.pvariance(data), 2))
