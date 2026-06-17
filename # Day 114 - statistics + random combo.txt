@@ -1,0 +1,11 @@
+# Day 114 - statistics + random combo
+import random
+import statistics as stats
+
+random.seed(114)
+values = [random.randint(1, 100) for _ in range(12)]
+
+print("Values:", values)
+print("Mean:", round(stats.mean(values), 2))
+print("Median:", stats.median(values))
+print("Mode:", stats.mode(values))
