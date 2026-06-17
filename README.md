@@ -826,3 +826,10 @@
 - Hash file contents with hashlib
 - Simple file integrity workflow
 - 4 files done ✅
+
+
+## Day 114 ✅ statistics + random combo
+- Generate sample data with random
+- Compute mean, median, mode
+- Simple data summary workflow
+- 4 files done ✅
