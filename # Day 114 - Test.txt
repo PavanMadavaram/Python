@@ -1,0 +1,6 @@
+# Day 114 - Test
+import statistics as stats
+
+nums = [2, 4, 6, 8]
+print("Day 114 test:", stats.mean(nums) == 5)
+print("Day 114 test ok")
