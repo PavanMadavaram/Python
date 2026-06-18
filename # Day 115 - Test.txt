@@ -1,0 +1,8 @@
+# Day 115 - Test
+import csv
+import io
+
+buf = io.StringIO()
+csv.writer(buf).writerow(["a", "b"])
+print("Day 115 test:", "a,b" in buf.getvalue())
+print("Day 115 test ok")
