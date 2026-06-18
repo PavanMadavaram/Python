@@ -1,0 +1,12 @@
+# Day 115 - Report Helper
+from pathlib import Path
+import csv
+
+p = Path("day115_report.csv")
+if p.exists():
+    with p.open("r", newline="") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            print(row["topic"], row["count"])
+else:
+    print("Report not found")
