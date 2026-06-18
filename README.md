@@ -833,3 +833,10 @@
 - Compute mean, median, mode
 - Simple data summary workflow
 - 4 files done ✅
+
+
+## Day 115 ✅ pathlib + csv report
+- Write CSV reports
+- Read CSV data back
+- Simple structured output
+- 4 files done ✅
