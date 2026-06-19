@@ -1,0 +1,11 @@
+# Day 116 - Task Helper
+import json
+from pathlib import Path
+
+p = Path("day116_tasks.json")
+if p.exists():
+    data = json.loads(p.read_text())
+    for item in data:
+        print(item["title"], item["done"], item["priority"])
+else:
+    print("Task file not found")
