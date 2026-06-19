@@ -840,3 +840,10 @@
 - Read CSV data back
 - Simple structured output
 - 4 files done ✅
+
+
+## Day 116 ✅ json + dataclasses combo
+- Create structured task objects
+- Convert dataclasses to JSON
+- Reload JSON for review
+- 4 files done ✅
