@@ -1,0 +1,9 @@
+# Day 117 - Ticket Helper
+from enum import Enum
+
+class Status(Enum):
+    OPEN = "open"
+    CLOSED = "closed"
+
+print("Status names:", [s.name for s in Status])
+print("Closed value:", Status.CLOSED.value)
