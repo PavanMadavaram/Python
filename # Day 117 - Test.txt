@@ -1,0 +1,10 @@
+# Day 117 - Test
+from dataclasses import dataclass
+
+@dataclass
+class A:
+    x: int
+
+a = A(5)
+print("Day 117 test:", a.x == 5)
+print("Day 117 test ok")
