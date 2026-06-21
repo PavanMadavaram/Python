@@ -854,3 +854,10 @@
 - Use dataclasses for structured records
 - Keep code readable and type-friendly
 - 4 files done ✅
+
+
+## Day 118 ✅ heapq + dataclass combo
+- Priority jobs with dataclasses
+- Use heapq for scheduling
+- Clear ordering by priority
+- 4 files done ✅
