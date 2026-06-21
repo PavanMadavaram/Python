@@ -1,0 +1,7 @@
+# Day 118 - Test
+import heapq
+
+items = [5, 2, 8]
+heapq.heapify(items)
+print("Day 118 test:", heapq.heappop(items) == 2)
+print("Day 118 test ok")
