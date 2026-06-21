@@ -1,0 +1,9 @@
+# Day 118 - Scheduler Helper
+import heapq
+
+queue = []
+heapq.heappush(queue, (2, "medium"))
+heapq.heappush(queue, (1, "high"))
+heapq.heappush(queue, (3, "low"))
+
+print("Queue order:", [heapq.heappop(queue) for _ in range(len(queue))])
