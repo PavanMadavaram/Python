@@ -861,3 +861,10 @@
 - Use heapq for scheduling
 - Clear ordering by priority
 - 4 files done ✅
+
+
+## Day 119 ✅ queue + typing combo
+- PriorityQueue for ordered jobs
+- Queue for FIFO processing
+- Useful for task pipelines
+- 4 files done ✅
