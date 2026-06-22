@@ -1,0 +1,10 @@
+# Day 119 - Test
+from queue import PriorityQueue
+
+pq = PriorityQueue()
+pq.put((5, "low"))
+pq.put((1, "high"))
+
+first = pq.get()
+print("Day 119 test:", first[0] == 1)
+print("Day 119 test ok")
