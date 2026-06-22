@@ -1,0 +1,11 @@
+# Day 119 - queue + typing combo
+from queue import PriorityQueue
+
+tasks = PriorityQueue()
+tasks.put((2, "Write documentation"))
+tasks.put((1, "Fix critical bug"))
+tasks.put((3, "Refactor helper code"))
+
+while not tasks.empty():
+    priority, task = tasks.get()
+    print(priority, task)
