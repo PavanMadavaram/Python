@@ -868,3 +868,10 @@
 - Queue for FIFO processing
 - Useful for task pipelines
 - 4 files done ✅
+
+
+## Day 120 ✅ todo manager
+- Use dataclasses for tasks
+- Save and load JSON
+- Simple real-world mini project
+- 4 files done ✅
