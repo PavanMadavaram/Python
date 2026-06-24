@@ -1,0 +1,6 @@
+# Day 121 - Test
+from collections import Counter
+
+c = Counter(["x", "y", "x"])
+print("Day 121 test:", c["x"] == 2)
+print("Day 121 test ok")
