@@ -875,3 +875,10 @@
 - Save and load JSON
 - Simple real-world mini project
 - 4 files done ✅
+
+
+## Day 121 ✅ collections + dataclass combo
+- Model votes as dataclasses
+- Count selections with Counter
+- Simple tallying workflow
+- 4 files done ✅
