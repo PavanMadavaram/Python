@@ -882,3 +882,10 @@
 - Count selections with Counter
 - Simple tallying workflow
 - 4 files done ✅
+
+
+## Day 122 ✅ file organizer
+- Group files by extension
+- Use pathlib and defaultdict
+- Handy for cleanup scripts
+- 4 files done ✅
