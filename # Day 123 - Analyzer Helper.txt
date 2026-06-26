@@ -1,0 +1,3 @@
+# Day 123 - Analyzer Helper
+messages = ["INFO started", "ERROR failed", "INFO stopped"]
+print([m.split()[0] for m in messages])
