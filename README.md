@@ -889,3 +889,10 @@
 - Use pathlib and defaultdict
 - Handy for cleanup scripts
 - 4 files done ✅
+
+
+## Day 123 ✅ log analyzer
+- Count log levels with Counter
+- Great for monitoring scripts
+- Easy way to summarize logs
+- 4 files done ✅
