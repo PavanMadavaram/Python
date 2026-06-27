@@ -903,3 +903,10 @@
 - Store names, phones, emails
 - Easy foundation for a phonebook app
 - 4 files done ✅
+
+
+## Day 125 ✅ password generator
+- Generate random passwords
+- Mix letters, numbers, symbols
+- Useful for quick credential creation
+- 4 files done ✅
