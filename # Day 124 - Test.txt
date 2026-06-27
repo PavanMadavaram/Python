@@ -1,0 +1,11 @@
+# Day 124 - Test
+from dataclasses import dataclass
+
+@dataclass
+class Contact:
+    name: str
+    phone: str
+
+c = Contact("Test", "000")
+print("Day 124 test:", c.name == "Test")
+print("Day 124 test ok")
