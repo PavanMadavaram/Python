@@ -896,3 +896,10 @@
 - Great for monitoring scripts
 - Easy way to summarize logs
 - 4 files done ✅
+
+
+## Day 124 ✅ contact book
+- Use dataclasses for structured data
+- Store names, phones, emails
+- Easy foundation for a phonebook app
+- 4 files done ✅
