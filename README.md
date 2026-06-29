@@ -910,3 +910,12 @@
 - Mix letters, numbers, symbols
 - Useful for quick credential creation
 - 4 files done ✅
+
+
+## Day 126 ✅ prime checker
+- Check whether numbers are prime
+- Use square-root optimization
+- Great practice for loops and conditionals
+- 4 files done ✅
+
+- 
