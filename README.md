@@ -918,4 +918,9 @@
 - Great practice for loops and conditionals
 - 4 files done ✅
 
-- 
+
+## Day 127 ✅ library catalog
+- Model books with dataclasses
+- Track availability status
+- Simple catalog-style app
+- 4 files done ✅
