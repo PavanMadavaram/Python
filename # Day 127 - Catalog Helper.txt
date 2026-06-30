@@ -1,0 +1,7 @@
+# Day 127 - Catalog Helper
+books = {
+    "Python Basics": True,
+    "Data Structures": False,
+}
+print("Python Basics" in books)
+print(books["Data Structures"])
