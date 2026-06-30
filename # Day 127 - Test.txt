@@ -1,0 +1,11 @@
+# Day 127 - Test
+from dataclasses import dataclass
+
+@dataclass
+class Book:
+    title: str
+    author: str
+
+b = Book("T", "A")
+print("Day 127 test:", b.title == "T")
+print("Day 127 test ok")
