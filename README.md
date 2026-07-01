@@ -924,3 +924,10 @@
 - Track availability status
 - Simple catalog-style app
 - 4 files done ✅
+
+
+## Day 128 ✅ note app
+- Store notes using dataclasses
+- Keep title and body together
+- Good base for a tiny notes tool
+- 4 files done ✅
