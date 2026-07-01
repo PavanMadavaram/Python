@@ -1,0 +1,4 @@
+# Day 128 - Notes Helper
+notes = {"a": "first", "b": "second"}
+print(list(notes.keys()))
+print(list(notes.values()))
