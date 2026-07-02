@@ -931,3 +931,10 @@
 - Keep title and body together
 - Good base for a tiny notes tool
 - 4 files done ✅
+
+
+## Day 129 ✅ budget tracker
+- Track expenses with dataclasses
+- Sum totals easily
+- Good base for a simple finance app
+- 4 files done ✅
