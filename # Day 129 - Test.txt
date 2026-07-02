@@ -1,0 +1,11 @@
+# Day 129 - Test
+from dataclasses import dataclass
+
+@dataclass
+class Expense:
+    item: str
+    amount: float
+
+e = Expense("Test", 1.5)
+print("Day 129 test:", e.amount == 1.5)
+print("Day 129 test ok")
