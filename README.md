@@ -938,3 +938,10 @@
 - Sum totals easily
 - Good base for a simple finance app
 - 4 files done ✅
+
+
+## Day 130 ✅ flashcard quiz
+- Store question-answer pairs
+- Simple revision tool
+- Easy to expand later
+- 4 files done ✅
