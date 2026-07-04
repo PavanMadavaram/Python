@@ -530,6 +530,7 @@
 
 
 ## Day 71 ✅ random Module 
+
 - random.randint(), random.choice()
 - shuffle(), sample()
 - Games & simulations
