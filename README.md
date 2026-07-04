@@ -514,6 +514,7 @@
 
 
 ## Day 69 ✅ math Module Advanced 
+
 - import math
 - sqrt, factorial, sin/cos
 - Scientific calculations
