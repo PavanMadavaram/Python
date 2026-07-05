@@ -1,0 +1,8 @@
+# Day 131 - reading timer
+import time
+
+sections = ["Warm-up", "Read", "Reflect", "Review"]
+
+for section in sections:
+    print(section)
+    time.sleep(1)
