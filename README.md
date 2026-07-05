@@ -949,3 +949,9 @@
 - Simple revision tool
 - Easy to expand later
 - 4 files done ✅
+
+
+# Day 131 - Timer Helper
+steps = ["Start", "Middle", "End"]
+for step in steps:
+    print(step)
