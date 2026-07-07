@@ -1,0 +1,5 @@
+# Day 133 - Test
+from datetime import timedelta
+
+print("Day 133 test:", timedelta(days=1).days == 1)
+print("Day 133 test ok")
