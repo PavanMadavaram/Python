@@ -1,0 +1,18 @@
+# Day 133 - reminder app
+from dataclasses import dataclass
+from datetime import datetime, timedelta
+
+@dataclass
+class Reminder:
+    title: str
+    due: datetime
+
+now = datetime.now()
+reminders = [
+    Reminder("Submit assignment", now + timedelta(days=1)),
+    Reminder("Call friend", now + timedelta(hours=6)),
+    Reminder("Review notes", now + timedelta(days=2)),
+]
+
+for r in reminders:
+    print(f"{r.title} -> {r.due.strftime('%Y-%m-%d %H:%M')}")
