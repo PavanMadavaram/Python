@@ -962,3 +962,10 @@ for step in steps:
 - Keep a simple daily journal
 - Easy to extend with dates or tags
 - 4 files done ✅
+
+
+## Day 133 ✅ reminder app
+- Store reminders with due times
+- Use datetime and timedelta
+- Useful base for alerts or notifications
+- 4 files done ✅
