@@ -976,3 +976,10 @@ for step in steps:
 - Keep momentum visible
 - Easy habit-building tool
 - 4 files done ✅
+
+
+## Day 135 ✅ task scheduler
+- Sort tasks by priority
+- Use dataclasses for structure
+- Good base for a planner app
+- 4 files done ✅
