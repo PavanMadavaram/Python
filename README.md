@@ -983,3 +983,10 @@ for step in steps:
 - Use dataclasses for structure
 - Good base for a planner app
 - 4 files done ✅
+
+
+## Day 136 ✅ habit tracker
+- Track streaks for daily habits
+- Use dataclasses for clarity
+- Useful for personal productivity
+- 4 files done ✅
