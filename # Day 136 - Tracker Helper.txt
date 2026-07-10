@@ -1,0 +1,3 @@
+# Day 136 - Tracker Helper
+habits = {"Read": 5, "Exercise": 12}
+print(max(habits, key=habits.get))
