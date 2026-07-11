@@ -1,0 +1,9 @@
+# Day 137 - quote saver
+quotes = [
+    "Keep going.",
+    "Small steps count.",
+    "Consistency wins.",
+]
+
+for i, quote in enumerate(quotes, 1):
+    print(f"{i}. {quote}")
