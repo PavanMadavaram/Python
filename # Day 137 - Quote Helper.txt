@@ -1,0 +1,3 @@
+# Day 137 - Quote Helper
+quote = "Progress over perfection"
+print(quote.upper())
