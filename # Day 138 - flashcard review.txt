@@ -1,0 +1,9 @@
+# Day 138 - flashcard review
+cards = {
+    "OOP": "Object-oriented programming",
+    "JSON": "JavaScript Object Notation",
+    "CLI": "Command-line interface",
+}
+
+for term, meaning in cards.items():
+    print(f"{term}: {meaning}")
