@@ -1,0 +1,4 @@
+# Day 138 - Test
+cards = {"x": 1, "y": 2}
+print("Day 138 test:", len(cards) == 2)
+print("Day 138 test ok")
