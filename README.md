@@ -997,3 +997,10 @@ for step in steps:
 - Good starter for a notes app
 - Easy to extend with files or JSON
 - 4 files done ✅
+
+
+## Day 138 ✅ flashcard review
+- Store terms and meanings in a dictionary
+- Great for quick revision
+- Easy to expand into a quiz app
+- 4 files done ✅
