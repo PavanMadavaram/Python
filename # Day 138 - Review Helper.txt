@@ -1,0 +1,3 @@
+# Day 138 - Review Helper
+terms = ["OOP", "JSON", "CLI"]
+print(" | ".join(terms))
