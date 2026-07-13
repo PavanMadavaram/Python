@@ -1,0 +1,5 @@
+# Day 139 - Test
+
+shipments = {"X1": "Done", "X2": "Waiting"}
+print("Day 139 test:", len(shipments) == 2)
+print("Day 139 test ok")
