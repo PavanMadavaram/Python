@@ -1,0 +1,11 @@
+# Day 139 - shipment tracker
+
+shipments = {
+    "A1001": "In transit",
+    "A1002": "Delivered",
+    "A1003": "Pending",
+    "A1004": "Delayed",
+}
+
+for tracking_id, status in shipments.items():
+    print(f"{tracking_id}: {status}")
