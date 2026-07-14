@@ -1,0 +1,10 @@
+# Day 140 - prayer journal
+
+entries = [
+    ("Morning", "Give thanks for a new day"),
+    ("Noon", "Stay focused and patient"),
+    ("Night", "Rest with peace"),
+]
+
+for time_of_day, prayer in entries:
+    print(f"{time_of_day}: {prayer}")
