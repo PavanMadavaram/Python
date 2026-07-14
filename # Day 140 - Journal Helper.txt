@@ -1,0 +1,3 @@
+# Day 140 - Journal Helper
+prayers = ["Thanks", "Help", "Guide"]
+print(" / ".join(prayers))
