@@ -1,0 +1,10 @@
+# Day 141 - final notes
+
+notes = [
+    "Review key lessons",
+    "Write a short reflection",
+    "Plan the next step",
+]
+
+for note in notes:
+    print(note)
