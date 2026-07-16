@@ -1,0 +1,10 @@
+# Day 142 - verse collector
+
+verses = [
+    "The Lord is good.",
+    "His mercy endures forever.",
+    "Be still and know.",
+]
+
+for v in verses:
+    print(v)
