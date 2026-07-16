@@ -1025,3 +1025,10 @@ for step in steps:
 - Keep a simple reflection list
 - Great wrap-up style exercise
 - 4 files done ✅
+
+
+## Day 142 ✅ verse collector
+- Save short favorite lines
+- Great for devotional notes
+- Simple list-based practice
+- 4 files done ✅
