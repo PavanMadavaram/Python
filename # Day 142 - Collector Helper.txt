@@ -1,0 +1,3 @@
+# Day 142 - Collector Helper
+words = ["joy", "peace", "hope"]
+print(", ".join(words))
