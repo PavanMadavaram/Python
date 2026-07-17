@@ -1,0 +1,10 @@
+# Day 143 - kindness log
+
+acts = [
+    "Smiled at a stranger",
+    "Helped carry groceries",
+    "Sent a thank-you message",
+]
+
+for act in acts:
+    print(act)
