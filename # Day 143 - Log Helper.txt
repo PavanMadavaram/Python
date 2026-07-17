@@ -1,0 +1,3 @@
+# Day 143 - Log Helper
+acts = ["shared", "listened", "encouraged"]
+print(" / ".join(acts))
