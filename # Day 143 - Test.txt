@@ -1,0 +1,4 @@
+# Day 143 - Test
+items = [1, 2, 3]
+print("Day 143 test:", sum(items) == 6)
+print("Day 143 test ok")
