@@ -1,0 +1,10 @@
+# Day 144 - mini planner
+
+tasks = [
+    ("Morning", "Read 10 pages"),
+    ("Afternoon", "Work on project"),
+    ("Evening", "Review notes"),
+]
+
+for time, task in tasks:
+    print(f"{time}: {task}")
