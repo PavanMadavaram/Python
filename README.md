@@ -1060,3 +1060,10 @@ for step in steps:
 - Keep a short list of what got done
 - Useful for motivation and reviews
 - 4 files done ✅
+
+
+## Day 147 ✅ reflection list
+- End-of-day questions
+- Good for journaling habits
+- Simple and easy to repeat
+- 4 files done ✅
