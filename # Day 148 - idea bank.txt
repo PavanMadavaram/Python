@@ -1,0 +1,10 @@
+# Day 148 - idea bank
+
+ideas = [
+    "Automate a report",
+    "Visualize progress",
+    "Learn a new feature",
+]
+
+for idea in ideas:
+    print(idea)
