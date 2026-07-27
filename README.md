@@ -1102,3 +1102,10 @@ for step in steps:
 - Easy list-based reflection
 - Good base for a journaling app
 - 4 files done ✅
+
+
+## Day 153 ✅ bookmark saver
+- Store useful links in a list
+- Simple browser-side habit support
+- Easy base for a link manager
+- 4 files done ✅
