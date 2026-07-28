@@ -1109,3 +1109,10 @@ for step in steps:
 - Simple browser-side habit support
 - Easy base for a link manager
 - 4 files done ✅
+
+
+## Day 154 ✅ list manager
+- Keep a short item list
+- Simple looping practice
+- Useful base for a checklist app
+- 4 files done ✅
