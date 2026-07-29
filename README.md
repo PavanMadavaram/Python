@@ -1116,3 +1116,10 @@ for step in steps:
 - Simple looping practice
 - Useful base for a checklist app
 - 4 files done ✅
+
+
+## Day 155 ✅ habit streak
+- Keep core habits visible
+- Short list for daily repetition
+- Good for consistency and focus
+- 4 files done ✅
