@@ -1130,3 +1130,10 @@ for step in steps:
 - Easy list-based practice
 - Useful for a notes or quotes app
 - 4 files done ✅
+
+
+## Day 157 ✅ verse notes
+- Store a few favorite lines
+- Great for daily reflection
+- Simple list-based practice
+- 4 files done ✅
