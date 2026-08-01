@@ -1137,3 +1137,10 @@ for step in steps:
 - Great for daily reflection
 - Simple list-based practice
 - 4 files done ✅
+
+
+## Day 158 ✅ auth notes
+- Record the basics of authentication
+- Contrast authn and authz
+- Good foundation for backend work
+- 4 files done ✅
