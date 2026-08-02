@@ -1144,3 +1144,10 @@ for step in steps:
 - Contrast authn and authz
 - Good foundation for backend work
 - 4 files done ✅
+
+
+## Day 159 ✅ plan builder
+- Outline plans in simple steps
+- Good for turning ideas into action
+- Easy to reuse for goal setting
+- 4 files done ✅
