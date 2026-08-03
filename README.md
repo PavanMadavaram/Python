@@ -1151,3 +1151,10 @@ for step in steps:
 - Good for turning ideas into action
 - Easy to reuse for goal setting
 - 4 files done ✅
+
+
+## Day 160 ✅ note sorter
+- Keep short notes in a list
+- Sort simple data in Python
+- Useful pattern for organizing info
+- 4 files done ✅
