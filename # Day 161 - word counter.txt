@@ -1,0 +1,10 @@
+# Day 161 - word counter
+
+text = "keep learning keep growing keep going"
+counts = {}
+
+for word in text.split():
+    counts[word] = counts.get(word, 0) + 1
+
+for word, count in counts.items():
+    print(word, count)
