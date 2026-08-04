@@ -1159,3 +1159,9 @@ for step in steps:
 - Useful pattern for organizing info
 - 4 files done ✅
 
+
+## Day 161 ✅ word counter
+- Count repeated words
+- Practice dictionaries and loops
+- Useful foundation for text analysis
+- 4 files done ✅
