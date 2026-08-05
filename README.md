@@ -1165,3 +1165,10 @@ for step in steps:
 - Practice dictionaries and loops
 - Useful foundation for text analysis
 - 4 files done ✅
+
+
+## Day 162 ✅ study planner
+- Break study into timed blocks
+- Good for focused learning sessions
+- Easy to adapt for any subject
+- 4 files done ✅
