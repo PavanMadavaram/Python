@@ -1,0 +1,3 @@
+# Day 162 - Planner Helper
+steps = ["focus", "practice", "review"]
+print(" -> ".join(steps))
