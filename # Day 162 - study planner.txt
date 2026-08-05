@@ -1,0 +1,11 @@
+# Day 162 - study planner
+
+blocks = [
+    ("Read", "30 min"),
+    ("Reflect", "15 min"),
+    ("Write", "10 min"),
+]
+
+for task, time in blocks:
+    print(f"{task}: {time}")
+    
