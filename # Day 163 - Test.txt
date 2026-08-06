@@ -1,0 +1,6 @@
+# Day 163 - Test
+
+decision = {"topic": "Practice", "action": "Code"}
+
+print("Day 163 test:", decision["topic"] == "Practice")
+print("Day 163 test ok")
