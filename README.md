@@ -1173,3 +1173,9 @@ for step in steps:
 - Easy to adapt for any subject
 - 4 files done ✅
 
+
+## Day 163 ✅ decision tracker
+- Store decisions and next actions
+- Practice tuples and dictionaries
+- Turn ideas into clear steps
+- 4 files done ✅
