@@ -1,0 +1,6 @@
+# Day 164 - Cleanup Helper
+
+items = ["remove clutter", "review priorities", "keep what matters"]
+
+for number, item in enumerate(items, 1):
+    print(f"{number}. {item}")
