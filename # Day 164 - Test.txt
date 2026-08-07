@@ -1,0 +1,7 @@
+# Day 164 - Test
+
+items = ["old", "useful", "temporary"]
+remaining = [item for item in items if item != "old"]
+
+print("Day 164 test:", remaining == ["useful", "temporary"])
+print("Day 164 test ok")
