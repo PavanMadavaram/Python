@@ -1180,3 +1180,9 @@ for step in steps:
 - Turn ideas into clear steps
 - 4 files done ✅
 
+
+## Day 164 ✅ cleanup checklist
+- Practice filtering lists
+- Organize tasks by action
+- Remove unnecessary items
+- 4 files done ✅
