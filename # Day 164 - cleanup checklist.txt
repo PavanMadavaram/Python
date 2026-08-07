@@ -1,0 +1,10 @@
+# Day 164 - cleanup checklist
+
+tasks = [
+    ("Remove", "Unused files"),
+    ("Review", "Old notes"),
+    ("Keep", "Useful resources"),
+]
+
+for action, item in tasks:
+    print(f"{action}: {item}")
