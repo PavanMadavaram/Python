@@ -1,0 +1,10 @@
+# Day 165 - Progress Helper
+
+tasks = [
+    ("Read", True),
+    ("Reflect", True),
+    ("Review", False),
+]
+
+for task, done in tasks:
+    print(f"[{'x' if done else ' '}] {task}")
