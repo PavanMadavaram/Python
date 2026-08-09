@@ -1,0 +1,6 @@
+# Day 166 - Tracker Helper
+
+items = ["pause", "notice", "give thanks"]
+
+for item in items:
+    print(f"- {item}")
