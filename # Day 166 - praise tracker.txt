@@ -1,0 +1,12 @@
+# Day 166 - praise tracker
+
+praises = [
+    "Thank you for a new day",
+    "Thank you for strength",
+    "Thank you for continued progress",
+]
+
+for number, praise in enumerate(praises, 1):
+    print(f"{number}. {praise}")
+
+print(f"Total entries: {len(praises)}")
