@@ -1,0 +1,5 @@
+# Day 166 - Test
+
+praises = ["one", "two", "three"]
+print("Day 166 test:", len(praises) == 3)
+print("Day 166 test ok")
