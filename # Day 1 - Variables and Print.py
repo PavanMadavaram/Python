@@ -9,3 +9,4 @@ print(f"Age: {age}")
 print(f"From: {city}")
 print(f"Learning: {job}")
 print("Day 1 Complete!")
+
