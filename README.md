@@ -101,7 +101,7 @@
 
 ## Day 15 ✅ f-Strings
 
-- f"text {var}"
+- f"text {var}" 
 - Formatted output
 - 4 files done ✅
 
