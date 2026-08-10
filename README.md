@@ -32,7 +32,7 @@
 
 - while loops
 - Counter variables
-- 4 files committed
+- 4 files committed 
 
 
 ## Day 6 ✅ Lists
