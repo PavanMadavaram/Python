@@ -1,0 +1,7 @@
+# Day 167 - Tracker Helper
+
+levels = [8, 7, 6, 9]
+
+print("Highest:", max(levels))
+print("Lowest:", min(levels))
+print("Average:", sum(levels) / len(levels))
