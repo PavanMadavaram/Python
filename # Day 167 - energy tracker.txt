@@ -1,0 +1,15 @@
+# Day 167 - energy tracker
+
+activities = [
+    {"name": "Sleep", "energy": 8},
+    {"name": "Study", "energy": 7},
+    {"name": "Exercise", "energy": 6},
+    {"name": "Rest", "energy": 9},
+]
+
+average = sum(item["energy"] for item in activities) / len(activities)
+
+for item in activities:
+    print(f"{item['name']}: {item['energy']}/10")
+
+print(f"Average energy: {average:.1f}/10")
