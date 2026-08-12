@@ -1202,3 +1202,10 @@ for step in steps:
 - Practice enumerate() and len()
 - Keep daily reflection simple
 - 4 files done ✅
+
+
+## Day 167 ✅ energy tracker
+- Record energy levels for activities
+- Calculate minimum, maximum, and average
+- Practice dictionaries and numeric summaries
+- 4 files done ✅
