@@ -1,0 +1,11 @@
+# Day 168 - Test
+
+expenses = [
+    {"category": "Food", "amount": 100},
+    {"category": "Food", "amount": 50},
+]
+
+food_total = sum(item["amount"] for item in expenses)
+
+print("Day 168 test:", food_total == 150)
+print("Day 168 test ok")
