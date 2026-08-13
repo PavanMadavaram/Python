@@ -1216,3 +1216,4 @@ for step in steps:
 - Calculate category totals
 - Practice dictionaries and comprehensions
 - 4 files done ✅
+
