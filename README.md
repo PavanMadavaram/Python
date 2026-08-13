@@ -1209,3 +1209,10 @@ for step in steps:
 - Calculate minimum, maximum, and average
 - Practice dictionaries and numeric summaries
 - 4 files done ✅
+
+
+## Day 168 ✅ expense summary
+- Group expenses by category
+- Calculate category totals
+- Practice dictionaries and comprehensions
+- 4 files done ✅
