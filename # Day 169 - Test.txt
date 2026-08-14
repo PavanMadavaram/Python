@@ -1,0 +1,8 @@
+# Day 169 - Test
+
+completed = 6
+planned = 8
+rate = completed / planned
+
+print("Day 169 test:", rate == 0.75)
+print("Day 169 test ok")
