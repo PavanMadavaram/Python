@@ -1,0 +1,19 @@
+# Day 169 - weekly review
+
+review = {
+    "completed": 5,
+    "planned": 7,
+    "wins": ["Practiced Python", "Stayed consistent"],
+    "next_focus": "Build a small project",
+}
+
+completion_rate = review["completed"] / review["planned"] * 100
+
+print(f"Completed: {review['completed']}/{review['planned']}")
+print(f"Completion rate: {completion_rate:.1f}%")
+print("Wins:")
+
+for win in review["wins"]:
+    print(f"- {win}")
+
+print("Next focus:", review["next_focus"])
