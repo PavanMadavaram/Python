@@ -1217,3 +1217,9 @@ for step in steps:
 - Practice dictionaries and comprehensions
 - 4 files done ✅
 
+
+## Day 169 ✅ weekly review
+- Track planned and completed work
+- Calculate completion percentage
+- Record wins and the next focus
+- 4 files done ✅
