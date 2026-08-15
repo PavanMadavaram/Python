@@ -1,0 +1,6 @@
+# Day 170 - Test
+
+lesson = {"topic": "Python", "completed": True}
+
+print("Day 170 test:", lesson["completed"])
+print("Day 170 test ok")
