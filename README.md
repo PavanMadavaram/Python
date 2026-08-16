@@ -46,7 +46,7 @@
 
 - Tuple creation, indexing, len()
 - Helper functions for tuples  
-- 4 files committed ✅
+- 4 files committed ✅  
 
 
 ## Day 8 ✅ Dictionaries 
