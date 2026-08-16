@@ -17,7 +17,7 @@
 ## Day 3 ✅ Even/Odd
 
 - if-elif-else statements
-- Modulo operator %
+- Modulo operator %  
 - 4 files committed
 
 
