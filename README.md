@@ -1230,3 +1230,10 @@ for step in steps:
 - Practice nested dictionaries
 - Connect study activities to outcomes
 - 4 files done ✅
+
+
+## Day 171 ✅ funnel tracker
+- Track user progress through stages
+- Count how many users reach each step
+- Practice nested lists and dictionaries
+- 4 files done ✅
