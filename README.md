@@ -10,7 +10,7 @@
 ## Day 2 ✅ Calculator
 
 - Input/output, arithmetic operators
-- Helper functions created
+- Helper functions created  
 - 4 files committed
 
 
