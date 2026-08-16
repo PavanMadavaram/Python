@@ -1,0 +1,11 @@
+# Day 171 - Test
+
+sessions = [
+    ["visit", "signup", "login"],
+    ["visit", "signup"],
+]
+
+login_count = sum("login" in session for session in sessions)
+
+print("Day 171 test:", login_count == 1)
+print("Day 171 test ok")
