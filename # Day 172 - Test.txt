@@ -1,0 +1,15 @@
+# Day 172 - Test
+
+transactions = [
+    {"amount": 100, "status": "paid"},
+    {"amount": 50, "status": "pending"},
+]
+
+total = sum(
+    item["amount"]
+    for item in transactions
+    if item["status"] == "paid"
+)
+
+print("Day 172 test:", total == 100)
+print("Day 172 test ok")
