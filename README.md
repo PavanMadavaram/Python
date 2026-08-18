@@ -1237,3 +1237,10 @@ for step in steps:
 - Count how many users reach each step
 - Practice nested lists and dictionaries
 - 4 files done ✅
+
+
+## Day 172 ✅ revenue tracker
+- Filter paid transactions
+- Calculate revenue from completed payments
+- Practice list comprehensions and generators
+- 4 files done ✅
