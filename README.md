@@ -1244,3 +1244,10 @@ for step in steps:
 - Calculate revenue from completed payments
 - Practice list comprehensions and generators
 - 4 files done ✅
+
+
+## Day 173 ✅ confidence tracker
+- Rate important areas from 1 to 10
+- Find strongest and weakest areas
+- Calculate an average confidence score
+- 4 files done ✅
