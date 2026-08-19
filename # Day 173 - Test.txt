@@ -1,0 +1,7 @@
+# Day 173 - Test
+
+scores = [6, 8, 10]
+average = sum(scores) / len(scores)
+
+print("Day 173 test:", average == 8)
+print("Day 173 test ok")
