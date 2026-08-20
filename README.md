@@ -1252,3 +1252,10 @@ for step in steps:
 - Calculate an average confidence score
 - 4 files done ✅
 
+
+## Day 174 ✅ habit streak tracker
+- Record daily completion
+- Calculate the current streak
+- Reset the streak after a missed day
+- Practice functions and loops
+- 4 files done ✅
