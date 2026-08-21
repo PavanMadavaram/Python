@@ -1,0 +1,8 @@
+# Day 175 - Test
+
+def days_to_milestone(current_day, milestone_day):
+    return milestone_day - current_day
+
+
+print("Day 175 test:", days_to_milestone(175, 200) == 25)
+print("Day 175 test ok")
