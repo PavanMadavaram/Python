@@ -1,0 +1,10 @@
+# Day 175 - Milestone Helper
+
+def days_to_milestone(current_day, milestone_day):
+    return milestone_day - current_day
+
+
+current = 175
+target = 200
+
+print("Days to next milestone:", days_to_milestone(current, target))
