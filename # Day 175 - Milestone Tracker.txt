@@ -1,0 +1,19 @@
+# Day 175 - Milestone Tracker
+
+milestones = [
+    {"day": 100, "name": "First 100 days", "completed": True},
+    {"day": 150, "name": "Halfway to 200", "completed": True},
+    {"day": 175, "name": "Quarter to 200", "completed": True},
+    {"day": 200, "name": "Big milestone", "completed": False},
+]
+
+for milestone in milestones:
+    status = "✅ done" if milestone["completed"] else "⏳ pending"
+    print(f"Day {milestone['day']}: {milestone['name']} - {status}")
+
+upcoming = [m for m in milestones if not m["completed"]]
+
+if upcoming:
+    next_milestone = upcoming[0]
+    days_left = next_milestone["day"] - 175
+    print(f"Next milestone: {next_milestone['name']} in {days_left} days")
