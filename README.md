@@ -1259,3 +1259,11 @@ for step in steps:
 - Reset the streak after a missed day
 - Practice functions and loops
 - 4 files done ✅
+
+
+## Day 175 ✅ milestone tracker
+- Track major milestones
+- Mark completed and pending goals
+- Calculate days until next milestone
+- Practice list filtering and conditionals
+- 4 files done ✅
