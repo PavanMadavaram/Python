@@ -1,0 +1,16 @@
+# Day 176 - Energy Tracker
+
+days = [
+    {"day": 173, "energy": 7},
+    {"day": 174, "energy": 8},
+    {"day": 175, "energy": 6},
+    {"day": 176, "energy": 9},
+]
+
+average_energy = sum(day["energy"] for day in days) / len(days)
+
+for day in days:
+    bars = "🔋" * day["energy"]
+    print(f"Day {day['day']}: {bars} ({day['energy']}/10)")
+
+print(f"Average energy: {average_energy:.1f}/10")
