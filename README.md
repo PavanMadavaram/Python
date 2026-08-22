@@ -1268,3 +1268,11 @@ for step in steps:
 - Calculate days until next milestone
 - Practice list filtering and conditionals
 - 4 files done ✅
+
+
+## Day 176 ✅ energy tracker
+- Log daily energy levels (1–10)
+- Visualize with emoji bars
+- Calculate average energy
+- Practice functions and averages
+- 4 files done ✅
