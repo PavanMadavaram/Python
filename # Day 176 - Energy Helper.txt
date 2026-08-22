@@ -1,0 +1,9 @@
+# Day 176 - Energy Helper
+
+def average_energy(energies):
+    return sum(energies) / len(energies)
+
+
+energies = [7, 8, 6, 9]
+
+print("Average energy:", f"{average_energy(energies):.1f}/10")
