@@ -1,0 +1,10 @@
+# Day 176 - Test
+
+def average_energy(energies):
+    return sum(energies) / len(energies)
+
+
+test_energies = [5, 7, 8]
+
+print("Day 176 test:", average_energy(test_energies) == 20 / 3)
+print("Day 176 test ok")
