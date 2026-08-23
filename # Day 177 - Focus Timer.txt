@@ -1,0 +1,16 @@
+# Day 177 - Focus Timer
+
+sessions = [
+    {"task": "Python practice", "minutes": 25},
+    {"task": "Code review", "minutes": 15},
+    {"task": "Project planning", "minutes": 30},
+    {"task": "Reading docs", "minutes": 20},
+]
+
+total_minutes = sum(session["minutes"] for session in sessions)
+total_hours = total_minutes / 60
+
+for session in sessions:
+    print(f"{session['task']}: {session['minutes']} minutes")
+
+print(f"Total focus time: {total_minutes} minutes ({total_hours:.1f} hours)")
