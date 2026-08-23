@@ -1,0 +1,10 @@
+# Day 178 - Test
+
+def count_entries(journal):
+    return len(journal)
+
+
+test_journal = ["Entry 1", "Entry 2", "Entry 3"]
+
+print("Day 178 test:", count_entries(test_journal) == 3)
+print("Day 178 test ok")
