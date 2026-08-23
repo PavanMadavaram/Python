@@ -1284,3 +1284,11 @@ for step in steps:
 - Convert minutes to hours
 - Practice functions and aggregation
 - 4 files done ✅
+
+
+## Day 178 ✅ gratitude journal
+- Record daily gratitude notes
+- Track entries over time
+- Count total journal entries
+- Practice lists and iteration
+- 4 files done ✅
