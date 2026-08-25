@@ -1,0 +1,13 @@
+# Day 179 - Reflection Helper
+
+def count_reflections(journal):
+    return len(journal)
+
+
+journal = [
+    "Consistency beats intensity",
+    "Small daily wins add up",
+    "Gratitude improves mood",
+]
+
+print("Reflections logged:", count_reflections(journal))
