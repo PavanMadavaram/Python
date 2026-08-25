@@ -1,0 +1,10 @@
+# Day 179 - Test
+
+def count_reflections(journal):
+    return len(journal)
+
+
+test_journal = ["Insight 1", "Insight 2"]
+
+print("Day 179 test:", count_reflections(test_journal) == 2)
+print("Day 179 test ok")
