@@ -1,0 +1,8 @@
+# Day 180 - Progress Helper
+
+def calculate_progress(current_day, total_days=365):
+    return (current_day / total_days) * 100
+
+
+current = 180
+print("Progress to 365 days:", f"{calculate_progress(current):.1f}%")
