@@ -1261,7 +1261,6 @@ for step in steps:
 - 4 files done ✅
 
 
-
 ## Day 175 ✅ milestone tracker
 - Track major milestones
 - Mark completed and pending goals
@@ -1301,3 +1300,9 @@ for step in steps:
 - Practice lists and functions
 - 4 files done ✅
 
+
+## Day 180 ✅ halfway milestone review
+- Celebrate reaching day 180
+- Calculate progress towards the full year goal
+- Review core Python concepts learned so far
+- 4 files done ✅
