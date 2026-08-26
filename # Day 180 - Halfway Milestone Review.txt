@@ -1,0 +1,16 @@
+# Day 180 - Halfway Milestone Review
+
+summary = {
+    "total_days": 180,
+    "target_days": 365,
+    "topics_covered": ["Loops", "Lists", "Dicts", "Functions", "Analysis"],
+    "completed_challenges": 180,
+}
+
+progress_pct = (summary["total_days"] / summary["target_days"]) * 100
+
+print(f"🎉 Halfway Milestone reached: Day {summary['total_days']}/{summary['target_days']}")
+print(f"Overall progress: {progress_pct:.1f}%\n")
+print("Key skills practiced:")
+for topic in summary["topics_covered"]:
+    print(f" - {topic}")
