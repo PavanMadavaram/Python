@@ -49,7 +49,7 @@
 - 4 files committed ✅  
 
 
-## Day 8 ✅ Dictionaries 
+## Day 8 ✅ Dictionaries  
 
 - Key-value pairs, .keys()
 - Helper functions for profiles
