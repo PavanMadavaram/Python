@@ -70,7 +70,7 @@
 - 4 files committed ✅
 
 
-## Day 11 ✅ Functions
+## Day 11 ✅ Functions  
 
 - def keyword, return
 - Simple addition
