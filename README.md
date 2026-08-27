@@ -3,7 +3,7 @@
 ---Daily Basic Python Streak---
 
 ## Day 1 ✅ Variables & Print 
-- Learned variables, strings, f-strings
+- Learned variables, strings, f-strings 
 - 4 files committed
 - 4 files committed
 
