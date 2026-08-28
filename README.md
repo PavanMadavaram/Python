@@ -1306,3 +1306,11 @@ for step in steps:
 - Calculate progress towards the full year goal
 - Review core Python concepts learned so far
 - 4 files done ✅
+
+
+## Day 181 ✅ second half kickoff tracker
+- Launch into the second half of the 365-day challenge
+- Track second-half goals and milestones
+- Calculate remaining days
+- Practice lists, dictionaries, and functions
+- 4 files done ✅
