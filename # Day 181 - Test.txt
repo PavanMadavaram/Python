@@ -1,0 +1,8 @@
+# Day 181 - Test
+
+def calculate_remaining_days(current_day, total_days=365):
+    return total_days - current_day
+
+
+print("Day 181 test:", calculate_remaining_days(181, 365) == 184)
+print("Day 181 test ok")
