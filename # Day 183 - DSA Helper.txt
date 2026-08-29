@@ -1,0 +1,15 @@
+# Day 183 - DSA Helper
+
+def get_active_topics(topic_list):
+    return [t["topic"] for t in topic_list if t["status"] == "in progress"]
+
+
+topics_data = [
+    {"topic": "Hash Maps & Sets", "status": "in progress"},
+    {"topic": "Two Pointers", "status": "in progress"},
+    {"topic": "Stacks & Queues", "status": "planned"},
+]
+
+print("Active practice topics:")
+for name in get_active_topics(topics_data):
+    print(f" • {name}")
