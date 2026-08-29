@@ -1321,3 +1321,11 @@ for step in steps:
 - Filter tasks by priority level
 - Practice dictionary filtering and modular functions
 - 4 files done ✅
+
+
+## Day 183 ✅ DSA practice tracker
+- Track daily data structures & algorithms topics
+- Filter active study areas vs completed topics
+- Aggregate total solved problems
+- Practice structured data management with lists & dictionaries
+- 4 files done ✅
