@@ -1315,3 +1315,9 @@ for step in steps:
 - Practice lists, dictionaries, and functions
 - 4 files done ✅
 
+
+## Day 182 ✅ quarter 3 planner
+- Plan target topics and hour allocations for Q3
+- Filter tasks by priority level
+- Practice dictionary filtering and modular functions
+- 4 files done ✅
