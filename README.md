@@ -1329,3 +1329,10 @@ for step in steps:
 - Aggregate total solved problems
 - Practice structured data management with lists & dictionaries
 - 4 files done ✅
+
+
+## Day 184 ✅ two-sum finder (DSA)
+- Solve the classic Two-Sum problem using hash maps
+- Achieve \(O(n)\) time complexity lookups
+- Track complement values using dictionaries and sets
+- 4 files done ✅
