@@ -1,0 +1,16 @@
+# Day 184 - DSA Helper
+
+def has_pair_with_sum(nums, target):
+    seen = set()
+    for num in nums:
+        if target - num in seen:
+            return True
+        seen.add(num)
+    return False
+
+
+test_array = [3, 5, 2, 8, 11]
+target = 10
+
+print("Has pair for target 10:", has_pair_with_sum(test_array, target))
+print("Has pair for target 25:", has_pair_with_sum(test_array, 25))
