@@ -22,4 +22,4 @@ samples = [
 print("🔍 Valid Palindrome Analysis (Two-Pointer Method):\n")
 for phrase in samples:
     verdict = "✅ Palindrome" if is_palindrome(phrase) else "❌ Not palindrome"
-    print(f"• \"{phrase}\" -> {verdict}")
+    print(f"• \"{phrase}\" -> {verdict}")     
