@@ -1336,3 +1336,10 @@ for step in steps:
 - Achieve \(O(n)\) time complexity lookups
 - Track complement values using dictionaries and sets
 - 4 files done ✅
+
+
+## Day 185 ✅ valid palindrome checker (DSA)
+- Solve the palindrome verification problem using two pointers
+- Filter and sanitize alphanumeric string inputs
+- Achieve \(O(n)\) time complexity and \(O(1)\) extra pointer space
+- 4 files done ✅
