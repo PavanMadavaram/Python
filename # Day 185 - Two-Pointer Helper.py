@@ -9,4 +9,4 @@ cleaned = clean_alphanumeric(raw_text)
 
 print(f"Original: {raw_text}")
 print(f"Cleaned : {cleaned}")
-print(f"Reversed: {cleaned[::-1]}")
+print(f"Reversed: {cleaned[::-1]}")      
