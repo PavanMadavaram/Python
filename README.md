@@ -1348,7 +1348,7 @@ for step in steps:
 ## Day 186 ✅ valid parentheses checker
 - Solve bracket matching with a stack
 - Push opening brackets onto the stack
-- Match and remove brackets when closing symbols appear
+- Match and remove brackets when closing symbols appear 
 - Achieve O(n) time and O(n) space complexity
-- 4 files done ✅
+- 4 files done ✅ 
 
