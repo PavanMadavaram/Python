@@ -14,4 +14,4 @@ def is_palindrome(text: str) -> bool:
 
 print("Day 185 test 1:", is_palindrome("Madam, in Eden, I'm Adam") is True)
 print("Day 185 test 2:", is_palindrome("Python DSA") is False) 
-print("Day 185 test ok")  
+print("Day 185 test ok")    
