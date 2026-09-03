@@ -1,0 +1,29 @@
+# Day 187 - Test
+
+def daily_temperatures(temperatures):
+    result = [0] * len(temperatures)
+    stack = []
+
+    for index, temperature in enumerate(temperatures):
+        while stack and temperature > temperatures[stack[-1]]:
+            previous_index = stack.pop()
+            result[previous_index] = index - previous_index
+
+        stack.append(index)
+
+    return result
+
+
+tests = [
+    ([73, 74, 75, 71, 69, 72, 76, 73],
+     [1, 1, 4, 2, 1, 1, 0, 0]),
+    ([30, 40, 50, 60],
+     [1, 1, 1, 0]),
+    ([90, 80, 70],
+     [0, 0, 0]),
+]
+
+for temperatures, expected in tests:
+    assert daily_temperatures(temperatures) == expected
+
+print("Day 187 test ok")
