@@ -1352,3 +1352,10 @@ for step in steps:
 - Achieve O(n) time and O(n) space complexity
 - 4 files done ✅ 
 
+
+## Day 187 ✅ daily temperatures
+- Solve the next-greater-element pattern
+- Use a monotonic decreasing stack
+- Store unresolved day indices efficiently
+- Achieve O(n) time and O(n) space complexity
+- 4 files done ✅
