@@ -1367,3 +1367,10 @@ for step in steps:
 - Replace brute-force \(O(n^2)\) with \(O(n)\) solution
 - 4 files done ✅
 
+
+## Day 189 ✅ largest rectangle in histogram
+- Solve the largest-rectangle-in-histogram problem
+- Use a monotonic increasing stack
+- Track height and width efficiently
+- Achieve O(n) time and O(n) space complexity
+- 4 files done ✅
