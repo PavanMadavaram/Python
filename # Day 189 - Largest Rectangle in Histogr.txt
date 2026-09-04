@@ -1,0 +1,25 @@
+# Day 189 - Largest Rectangle in Histogram
+# DSA: Monotonic Stack
+
+def largest_rectangle_area(heights):
+    stack = []  # Stores indices with increasing heights
+    max_area = 0
+    heights.append(0)  # Sentinel to flush remaining stack
+
+    for i, h in enumerate(heights):
+        while stack and h < heights[stack[-1]]:
+            height = heights[stack.pop()]
+            width = i if not stack else i - stack[-1] - 1
+            max_area = max(max_area, height * width)
+
+        stack.append(i)
+
+    heights.pop()  # Remove sentinel
+    return max_area
+
+
+histogram = [2, 1, 5, 6, 2, 3]
+answer = largest_rectangle_area(histogram)
+
+print("Heights:  ", histogram)
+print("Max area: ", answer)
