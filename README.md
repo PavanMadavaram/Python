@@ -1359,3 +1359,10 @@ for step in steps:
 - Store unresolved day indices efficiently
 - Achieve O(n) time and O(n) space complexity
 - 4 files done ✅
+
+
+## Day 188 ✅ next greater element
+- Solve the next-greater-element pattern
+- Use a monotonic decreasing stack
+- Replace brute-force \(O(n^2)\) with \(O(n)\) solution
+- 4 files done ✅
