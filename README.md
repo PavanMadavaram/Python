@@ -1374,3 +1374,11 @@ for step in steps:
 - Track height and width efficiently
 - Achieve O(n) time and O(n) space complexity
 - 4 files done ✅
+
+
+## Day 190 ✅ sliding window maximum
+- Solve the sliding-window-maximum problem
+- Use a monotonic decreasing deque
+- Track indices of potential maximums
+- Achieve O(n) time and O(k) space complexity
+- 4 files done ✅
