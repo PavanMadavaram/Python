@@ -1382,3 +1382,10 @@ for step in steps:
 - Track indices of potential maximums
 - Achieve O(n) time and O(k) space complexity
 - 4 files done ✅
+
+
+## Day 191 ✅ min stack
+- Implement a stack that supports push, pop, top, and get-min in O(1) time
+- Use an auxiliary min-stack to track minimum values
+- Practice class design and stack operations
+- 4 files done ✅
