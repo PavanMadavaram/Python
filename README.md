@@ -1389,3 +1389,10 @@ for step in steps:
 - Use an auxiliary min-stack to track minimum values
 - Practice class design and stack operations
 - 4 files done ✅
+
+
+## Day 192 ✅ queue using two stacks
+- Implement FIFO queue behavior using two LIFO stacks
+- Achieve amortized O(1) enqueue and dequeue operations
+- Practice stack manipulation and queue semantics
+- 4 files done ✅
