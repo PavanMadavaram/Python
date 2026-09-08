@@ -1,0 +1,37 @@
+# Day 192 - Test
+
+class QueueWithStacks:
+    def __init__(self):
+        self.inbox = []
+        self.outbox = []
+
+    def enqueue(self, value):
+        self.inbox.append(value)
+
+    def _shift(self):
+        if not self.outbox:
+            while self.inbox:
+                self.outbox.append(self.inbox.pop())
+
+    def dequeue(self):
+        self._shift()
+        return self.outbox.pop() if self.outbox else None
+
+    def peek(self):
+        self._shift()
+        return self.outbox[-1] if self.outbox else None
+
+
+q = QueueWithStacks()
+q.enqueue(1)
+q.enqueue(2)
+q.enqueue(3)
+
+assert q.peek() == 1
+assert q.dequeue() == 1
+assert q.dequeue() == 2
+q.enqueue(4)
+assert q.dequeue() == 3
+assert q.dequeue() == 4
+
+print("Day 192 test ok")
