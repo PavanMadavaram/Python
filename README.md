@@ -1396,3 +1396,10 @@ for step in steps:
 - Achieve amortized O(1) enqueue and dequeue operations
 - Practice stack manipulation and queue semantics
 - 4 files done ✅
+
+
+## Day 193 ✅ stack using two queues
+- Implement LIFO stack behavior using two FIFO queues
+- Achieve O(1) pop at the cost of O(n) push (or vice versa)
+- Practice queue manipulation and stack semantics
+- 4 files done ✅
