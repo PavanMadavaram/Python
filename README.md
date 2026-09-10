@@ -1403,3 +1403,11 @@ for step in steps:
 - Achieve O(1) pop at the cost of O(n) push (or vice versa)
 - Practice queue manipulation and stack semantics
 - 4 files done ✅
+
+
+## Day 194 ✅ binary search
+- Search a sorted array efficiently
+- Repeatedly divide the search range in half
+- Achieve O(log n) time complexity
+- Practice loop boundaries and index calculations
+- 4 files done ✅
