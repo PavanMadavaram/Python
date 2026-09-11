@@ -1411,3 +1411,11 @@ for step in steps:
 - Achieve O(log n) time complexity
 - Practice loop boundaries and index calculations
 - 4 files done ✅
+
+
+## Day 195 ✅ search insert position
+- Find the target's index or its correct insertion position
+- Use a lower-bound binary search
+- Handle empty arrays and boundary positions
+- Achieve O(log n) time and O(1) space complexity
+- 4 files done ✅
