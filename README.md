@@ -1419,3 +1419,11 @@ for step in steps:
 - Handle empty arrays and boundary positions
 - Achieve O(log n) time and O(1) space complexity
 - 4 files done ✅
+
+
+## Day 196 ✅ search in rotated sorted array
+- Modify binary search for a rotated sorted array
+- Identify which half remains sorted
+- Discard the half that cannot contain the target
+- Achieve O(log n) time and O(1) space complexity
+- 4 files done ✅
