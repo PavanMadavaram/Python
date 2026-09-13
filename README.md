@@ -1427,3 +1427,10 @@ for step in steps:
 - Discard the half that cannot contain the target
 - Achieve O(log n) time and O(1) space complexity
 - 4 files done ✅
+
+## Day 197 ✅ find minimum in rotated sorted array
+- Find the minimum value without scanning every element
+- Compare the middle value with the right boundary
+- Narrow the search to the rotated section
+- Achieve O(log n) time and O(1) space complexity
+- 4 files done ✅
