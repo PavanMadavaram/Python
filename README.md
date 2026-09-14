@@ -1434,3 +1434,11 @@ for step in steps:
 - Narrow the search to the rotated section
 - Achieve O(log n) time and O(1) space complexity
 - 4 files done ✅
+
+
+## Day 198 ✅ Koko eating bananas
+- Find the minimum speed needed to finish all piles in time
+- Binary-search the answer rather than the array
+- Check feasibility with ceiling division
+- Achieve O(n log m) time, where m is the largest pile
+- 4 files done ✅
