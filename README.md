@@ -1442,3 +1442,11 @@ for step in steps:
 - Check feasibility with ceiling division
 - Achieve O(n log m) time, where m is the largest pile
 - 4 files done ✅
+
+
+## Day 199 ✅ capacity to ship packages
+- Find the smallest capacity that meets a shipping deadline
+- Binary-search the answer between max weight and total weight
+- Check feasibility by simulating shipment days
+- Achieve O(n log S) time, where S is the total weight
+- 4 files done ✅
