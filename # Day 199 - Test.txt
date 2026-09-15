@@ -1,0 +1,42 @@
+# Day 199 - Test
+
+def days_required(weights, capacity):
+    days = 1
+    current_load = 0
+
+    for weight in weights:
+        if current_load + weight > capacity:
+            days += 1
+            current_load = 0
+
+        current_load += weight
+
+    return days
+
+
+def minimum_capacity(weights, days):
+    left = max(weights)
+    right = sum(weights)
+
+    while left < right:
+        capacity = (left + right) // 2
+
+        if days_required(weights, capacity) <= days:
+            right = capacity
+        else:
+            left = capacity + 1
+
+    return left
+
+
+tests = [
+    ([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5, 15),
+    ([3, 2, 2, 4, 1, 4], 3, 6),
+    ([1, 2, 3, 1, 1], 4, 3),
+    ([5], 1, 5),
+]
+
+for weights, days, expected in tests:
+    assert minimum_capacity(weights, days) == expected
+
+print("Day 199 test ok")
