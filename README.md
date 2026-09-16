@@ -1450,3 +1450,11 @@ for step in steps:
 - Check feasibility by simulating shipment days
 - Achieve O(n log S) time, where S is the total weight
 - 4 files done ✅
+
+
+## Day 200 ✅ milestone dashboard
+- Celebrate 200 days of consistent practice
+- Calculate yearly progress and remaining days
+- Track completed and upcoming milestones
+- Practice dictionaries, loops, and percentage calculations
+- 4 files done ✅
