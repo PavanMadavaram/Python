@@ -1,0 +1,28 @@
+# Day 201 - Test
+
+def merge_sorted_arrays(first, second):
+    result = []
+    left = right = 0
+
+    while left < len(first) and right < len(second):
+        if first[left] <= second[right]:
+            result.append(first[left])
+            left += 1
+        else:
+            result.append(second[right])
+            right += 1
+
+    return result + first[left:] + second[right:]
+
+
+tests = [
+    ([1, 4, 7], [2, 3, 8], [1, 2, 3, 4, 7, 8]),
+    ([], [1, 2], [1, 2]),
+    ([5, 6], [], [5, 6]),
+    ([1, 1, 3], [1, 2], [1, 1, 1, 2, 3]),
+]
+
+for first, second, expected in tests:
+    assert merge_sorted_arrays(first, second) == expected
+
+print("Day 201 test ok")
