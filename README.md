@@ -1458,3 +1458,11 @@ for step in steps:
 - Track completed and upcoming milestones
 - Practice dictionaries, loops, and percentage calculations
 - 4 files done ✅
+
+
+## Day 201 ✅ merge two sorted arrays
+- Combine two sorted arrays into one sorted result
+- Use two pointers to compare front elements
+- Append remaining values after one array is exhausted
+- Achieve O(n + m) time and O(n + m) space complexity
+- 4 files done ✅
