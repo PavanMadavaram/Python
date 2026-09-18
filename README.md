@@ -1466,3 +1466,11 @@ for step in steps:
 - Append remaining values after one array is exhausted
 - Achieve O(n + m) time and O(n + m) space complexity
 - 4 files done ✅
+
+
+## Day 202 ✅ merge intervals
+- Combine overlapping intervals
+- Sort intervals by their starting points
+- Extend the current interval when overlap exists
+- Achieve O(n log n) time because of sorting
+- 4 files done ✅
