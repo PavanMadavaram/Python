@@ -1,0 +1,22 @@
+# Day 203 - Interval Helper
+
+def erase_overlap_intervals(intervals):
+    if not intervals:
+        return 0
+
+    sorted_intervals = sorted(intervals, key=lambda interval: interval[1])
+    removals = 0
+    previous_end = sorted_intervals[0][1]
+
+    for start, end in sorted_intervals[1:]:
+        if start < previous_end:
+            removals += 1
+        else:
+            previous_end = end
+
+    return removals
+
+
+meetings = [[0, 30], [5, 10], [15, 20]]
+
+print("Meetings to remove:", erase_overlap_intervals(meetings))
