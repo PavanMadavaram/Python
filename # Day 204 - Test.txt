@@ -1,0 +1,31 @@
+# Day 204 - Test
+
+import heapq
+
+
+def minimum_rooms(intervals):
+    if not intervals:
+        return 0
+
+    end_times = []
+
+    for start, end in sorted(intervals):
+        if end_times and end_times[0] <= start:
+            heapq.heappop(end_times)
+
+        heapq.heappush(end_times, end)
+
+    return len(end_times)
+
+
+tests = [
+    ([[0, 30], [5, 10], [15, 20]], 2),
+    ([[7, 10], [2, 4]], 1),
+    ([[1, 5], [2, 6], [3, 7]], 3),
+    ([], 0),
+]
+
+for meetings, expected in tests:
+    assert minimum_rooms(meetings) == expected
+
+print("Day 204 test ok")
