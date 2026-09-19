@@ -1482,3 +1482,11 @@ for step in steps:
 - Greedily keep the interval that finishes earliest
 - Achieve O(n log n) time because of sorting
 - 4 files done ✅
+
+
+## Day 204 ✅ meeting rooms II
+- Find the minimum number of rooms needed for overlapping meetings
+- Sort meetings by start time
+- Use a min-heap to track the earliest room that becomes available
+- Achieve O(n log n) time and O(n) space complexity
+- 4 files done ✅
