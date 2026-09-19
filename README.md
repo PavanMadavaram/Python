@@ -1474,3 +1474,11 @@ for step in steps:
 - Extend the current interval when overlap exists
 - Achieve O(n log n) time because of sorting
 - 4 files done ✅
+
+
+## Day 203 ✅ non-overlapping intervals
+- Remove the fewest intervals to eliminate all overlaps
+- Sort intervals by their ending points
+- Greedily keep the interval that finishes earliest
+- Achieve O(n log n) time because of sorting
+- 4 files done ✅
