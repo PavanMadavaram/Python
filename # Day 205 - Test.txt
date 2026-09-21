@@ -1,0 +1,29 @@
+# Day 205 - Test
+
+from collections import Counter
+import heapq
+
+
+def top_k_frequent(numbers, k):
+    counts = Counter(numbers)
+    heap = []
+
+    for number, frequency in counts.items():
+        heapq.heappush(heap, (frequency, number))
+
+        if len(heap) > k:
+            heapq.heappop(heap)
+
+    return {number for frequency, number in heap}
+
+
+tests = [
+    ([1, 1, 1, 2, 2, 3], 2, {1, 2}),
+    ([1], 1, {1}),
+    ([4, 4, 4, 5, 5, 6], 1, {4}),
+]
+
+for numbers, k, expected in tests:
+    assert top_k_frequent(numbers, k) == expected
+
+print("Day 205 test ok")
