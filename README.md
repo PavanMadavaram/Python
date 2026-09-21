@@ -1490,3 +1490,11 @@ for step in steps:
 - Use a min-heap to track the earliest room that becomes available
 - Achieve O(n log n) time and O(n) space complexity
 - 4 files done ✅
+
+
+## Day 205 ✅ top K frequent elements
+- Count values with a hash map
+- Maintain the top K frequencies with a min-heap
+- Practice frequency analysis and heap operations
+- Achieve O(n log k) time and O(n) space complexity
+- 4 files done ✅
