@@ -1,0 +1,12 @@
+# Day 205 - Frequency Helper
+
+from collections import Counter
+
+
+def frequency_table(numbers):
+    return Counter(numbers)
+
+
+values = [4, 4, 2, 7, 2, 4, 7]
+
+print("Frequency table:", frequency_table(values))
