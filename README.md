@@ -1499,9 +1499,18 @@ for step in steps:
 - Achieve O(n log k) time and O(n) space complexity
 - 4 files done ✅
 
+
 ## Day 206 ✅ kth largest element
 - Find the kth largest value without fully sorting the array
 - Maintain a min-heap containing only the largest k elements
 - The heap root is the kth largest value
 - Achieve O(n log k) time and O(k) space complexity
+- 4 files done ✅
+
+
+## Day 207 ✅ kth smallest element in a BST
+- Use inorder traversal to visit BST values in sorted order
+- Stop when the kth value is reached
+- Implement traversal iteratively with a stack
+- Achieve O(h + k) time and O(h) space complexity
 - 4 files done ✅
