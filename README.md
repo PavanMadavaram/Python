@@ -1499,3 +1499,9 @@ for step in steps:
 - Achieve O(n log k) time and O(n) space complexity
 - 4 files done ✅
 
+## Day 206 ✅ kth largest element
+- Find the kth largest value without fully sorting the array
+- Maintain a min-heap containing only the largest k elements
+- The heap root is the kth largest value
+- Achieve O(n log k) time and O(k) space complexity
+- 4 files done ✅
