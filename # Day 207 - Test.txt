@@ -1,0 +1,40 @@
+# Day 207 - Test
+
+class TreeNode:
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+
+
+def kth_smallest(root, k):
+    stack = []
+    current = root
+
+    while True:
+        while current:
+            stack.append(current)
+            current = current.left
+
+        current = stack.pop()
+        k -= 1
+
+        if k == 0:
+            return current.value
+
+        current = current.right
+
+
+root = TreeNode(5)
+root.left = TreeNode(3)
+root.right = TreeNode(7)
+root.left.left = TreeNode(2)
+root.left.right = TreeNode(4)
+root.right.left = TreeNode(6)
+root.right.right = TreeNode(8)
+
+assert kth_smallest(root, 1) == 2
+assert kth_smallest(root, 3) == 4
+assert kth_smallest(root, 5) == 6
+
+print("Day 207 test ok")
