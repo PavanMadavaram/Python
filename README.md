@@ -1514,3 +1514,11 @@ for step in steps:
 - Implement traversal iteratively with a stack
 - Achieve O(h + k) time and O(h) space complexity
 - 4 files done ✅
+
+
+## Day 208 ✅ invert a binary tree
+- Swap every node's left and right children
+- Use recursion to process each subtree
+- Practice tree traversal and structural transformation
+- Achieve O(n) time and O(h) recursion space
+- 4 files done ✅
