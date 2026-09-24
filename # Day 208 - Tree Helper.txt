@@ -1,0 +1,38 @@
+# Day 208 - Tree Helper
+
+class TreeNode:
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+
+
+def invert_tree(root):
+    if root is None:
+        return None
+
+    root.left, root.right = root.right, root.left
+    invert_tree(root.left)
+    invert_tree(root.right)
+
+    return root
+
+
+def preorder_values(root):
+    if root is None:
+        return []
+
+    return (
+        [root.value]
+        + preorder_values(root.left)
+        + preorder_values(root.right)
+    )
+
+
+root = TreeNode(1)
+root.left = TreeNode(2)
+root.right = TreeNode(3)
+
+print("Before:", preorder_values(root))
+invert_tree(root)
+print("After: ", preorder_values(root))
