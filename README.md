@@ -1522,3 +1522,11 @@ for step in steps:
 - Practice tree traversal and structural transformation
 - Achieve O(n) time and O(h) recursion space
 - 4 files done ✅
+
+
+## Day 209 ✅ minimum size subarray sum
+- Find the shortest contiguous subarray whose sum reaches the target
+- Use a sliding window because all values are positive
+- Expand the right side and shrink from the left when valid
+- Achieve O(n) time and O(1) extra space
+- 4 files done ✅
